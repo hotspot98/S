@@ -1,1402 +1,2163 @@
-﻿#EXTM3U
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Hrvatska═════"  group-title="Hrvatska",═════Hrvatska═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str29
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 1"  group-title="Hrvatska",HRT 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str29
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 2"  group-title="Hrvatska",HRT 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str17
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 3"  group-title="Hrvatska",HRT 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str168
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HRT 4"  group-title="Hrvatska",HRT 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str169
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL"  group-title="Hrvatska",RTL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str10
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 2"  group-title="Hrvatska",RTL 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str11
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crime"  group-title="Hrvatska",RTL Crime
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str215
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Living"  group-title="Hrvatska",RTL Living
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str174
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nova"  group-title="Hrvatska",Nova
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str09
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Doma"  group-title="Hrvatska",Doma
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str12
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vinkovacka TV"  group-title="Hrvatska",Vinkovacka TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str170
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Slavonska TV"  group-title="Hrvatska",Slavonska TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str171
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Banovina TV"  group-title="Hrvatska",Banovina TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str172
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Osijecka TV"  group-title="Hrvatska",Osijecka TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str173
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CMC"  group-title="Hrvatska",CMC
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str175
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Bosna═════"  group-title="Bosna",═════Bosna═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str04
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BHT 1"  group-title="Bosna",BHT 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str04
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FTV"  group-title="Bosna",FTV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str13
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVSA"  group-title="Bosna",TVSA
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str158
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV Zenica"  group-title="Bosna",RTV Zenica
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str159
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV USK"  group-title="Bosna",TV USK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str160
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bosna TV"  group-title="Bosna",Bosna TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str217
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Igman"  group-title="Bosna",TV Igman
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str161
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Izvorna TV"  group-title="Bosna",Izvorna TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str162
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1"  group-title="Bosna",TV 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str25
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Al Jazeera"  group-title="Bosna",Al Jazeera
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str163
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 International"  group-title="Bosna",A1 International
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str164
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 Balkan"  group-title="Bosna",A1 Balkan
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str165
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="N1"  group-title="Bosna",N1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str166
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SOS"  group-title="Bosna",SOS
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str167
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV"  group-title="Bosna",ATV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str41
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DM Sat"  group-title="Bosna",DM Sat
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str71
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BN Music"  group-title="Bosna",BN Music
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str72
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Plus"  group-title="Bosna",Hayat Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str156
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat"  group-title="Bosna",Hayat
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str36
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Face TV"  group-title="Bosna",Face TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str37
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OBN"  group-title="Bosna",OBN
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str57
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BN"  group-title="Bosna",BN
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str59
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Duga TV"  group-title="Bosna",Duga TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str179
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Valentinovo"  group-title="Bosna",Valentinovo
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str181
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Folk"  group-title="Bosna",Hayat Folk
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str155
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jugoton TV"  group-title="Bosna",Jugoton TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str180
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayat Music"  group-title="Bosna",Hayat Music
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str157
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TK"  group-title="Bosna",TK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str38
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Srbija═════"  group-title="Srbija",═════Srbija═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str01
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 1"  group-title="Srbija",RTS 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str01
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 2"  group-title="Srbija",RTS 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str02
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTS 3"  group-title="Srbija",RTS 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str176
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Novi Pazar"  group-title="Srbija",Novi Pazar
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str177
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="B92 Info"  group-title="Srbija",B92 Info
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str178
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="B92"  group-title="Srbija",B92
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str03
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV"  group-title="Srbija",MTV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str182
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Atlas TV"  group-title="Srbija",Atlas TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str183
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Prva TV"  group-title="Srbija",Prva TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str05
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTRS"  group-title="Srbija",RTRS
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str58
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Klasik TV"  group-title="Srbija",Klasik TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str70
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 1"  group-title="Srbija",RTV 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str251
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 2"  group-title="Srbija",RTV 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str252
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV Adria"  group-title="Srbija",MTV Adria
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str253
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Happy"  group-title="Srbija",Happy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str73
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sandzak TV"  group-title="Srbija",Sandzak TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str185
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Grand TV"  group-title="Srbija",Grand TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str40
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nova RS"  group-title="Srbija",Nova RS
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str42
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVCG"  group-title="CG",TVCG
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str184
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Pink═════"  group-title="Pink",═════Pink═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str06
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink"  group-title="Pink",Pink
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str06
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink BH"  group-title="Pink",Pink BH
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str07
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink 2"  group-title="Pink",Pink 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str26
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink 3"  group-title="Pink",Pink 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str39
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Extra"  group-title="Pink",Pink Extra
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str28
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Prva Plus"  group-title="Pink",Prva Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str30
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Film"  group-title="Pink",Pink Film
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str08
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Triller"  group-title="Pink",Pink Triller
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str45
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Action"  group-title="Pink",Pink Action
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str43
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Romance"  group-title="Pink",Pink Romance
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str47
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Horor"  group-title="Pink",Pink Horor
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str48
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Comedy"  group-title="Pink",Pink Comedy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str49
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Sci-Fi"  group-title="Pink",Pink Sci-Fi
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str50
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Premium"  group-title="Pink",Pink Premium
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str51
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Music"  group-title="Pink",Pink Music
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str220
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Music 2"  group-title="Pink",Pink Music 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str221
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Kuvar"  group-title="Pink",Pink Kuvar
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str18
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Folk"  group-title="Pink",Pink Folk
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str54
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Western"  group-title="Pink",Pink Western
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str55
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Crime & Mistery"  group-title="Pink",Pink Crime & Mistery
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str206
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Classic"  group-title="Pink",Pink Classic
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str207
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Zabava"  group-title="Pink",Pink Zabava
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str208
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink World"  group-title="Pink",Pink World
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str209
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Movies"  group-title="Pink",Pink Movies
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str210
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Show"  group-title="Pink",Pink Show
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str211
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Koncert"  group-title="Pink",Pink Koncert
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str212
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Soap"  group-title="Pink",Pink Soap
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str213
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Folk 2"  group-title="Pink",Pink Folk 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str214
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pink Plus"  group-title="Pink",Pink Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str127
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Film & Serija═════"  group-title="Film",═════Film & Serija═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str67
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO Adria"  group-title="Film",HBO Adria
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str67
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2"  group-title="Film",HBO 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str68
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3"  group-title="Film",HBO 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str144
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar"  group-title="Film",Cinestar
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str74
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar 1"  group-title="Film",Cinestar 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str65
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar 2"  group-title="Film",Cinestar 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str66
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax"  group-title="Film",Cinemax
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str64
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinemax 2"  group-title="Film",Cinemax 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str69
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinestar Action"  group-title="Film",Cinestar Action
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str205
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Movies"  group-title="Film",Fox Movies
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str75b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sci Fi Adria"  group-title="Film",Sci Fi Adria
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str77b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 1000"  group-title="Film",TV 1000
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str79b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Adria"  group-title="Film",Fox Adria
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str80b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FilmBox Plus"  group-title="Film",FilmBox Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str260
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FilmBox Extra"  group-title="Film",FilmBox Extra
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str261
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="M1 Film"  group-title="Film",M1 Film
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str216
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Film",Fox Crime
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str14
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Komedi"  group-title="Film",Film Komedi
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr109
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Life"  group-title="Film",Fox Life
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str61
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Hits"  group-title="Film",Film Hits
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr101
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Drame"  group-title="Film",Film Drame
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr102
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox AL"  group-title="Film",Fox AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr241
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Life AL"  group-title="Film",Fox Life AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr242
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Crime"  group-title="Film",Fox Crime
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr243
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 1 AL"  group-title="Film",Kino Premiere 1 AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr244
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 2 AL"  group-title="Film",Kino Premiere 2 AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr245
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kino Premiere 3 AL"  group-title="Film",Kino Premiere 3 AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr246
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Hits Plus1"  group-title="Film",Film Hits Plus1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr247
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 2"  group-title="Film",Film Gold 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr248
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 3"  group-title="Film",Film Gold 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr249
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Gold 4"  group-title="Film",Film Gold 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr250
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Doku & Style═════"  group-title="Doku & Style",═════Doku & Style═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str44
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="National Geographic"  group-title="Doku & Style",National Geographic
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str44
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery"  group-title="Doku & Style",Discovery
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str27
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Crime & Investigation"  group-title="Doku & Style",Crime & Investigation
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str199
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E !"  group-title="Doku & Style",E !
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str200
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History"  group-title="Doku & Style",History
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str201
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet"  group-title="Doku & Style",Animal Planet
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str202
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lov i Ribolov"  group-title="Doku & Style",Lov i Ribolov
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str203
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AXN Adria"  group-title="Doku & Style",AXN Adria
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str204
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NatGeo Wild"  group-title="Doku & Style",NatGeo Wild
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str219
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Explorer"  group-title="Doku & Style",Viasat Explorer
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str255
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat History"  group-title="Doku & Style",Viasat History
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str256
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Nature"  group-title="Doku & Style",Viasat Nature
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str257
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Davinchi Learning"  group-title="Doku & Style",Davinchi Learning
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str258
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel Channel"  group-title="Doku & Style",Travel Channel
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str259
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Kids═════"  group-title="Kids",═════Kids═════
-http://123.456.789
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Kockica"  group-title="Kids",RTL Kockica
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str114
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nickelodeon"  group-title="Kids",Nickelodeon
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str46
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Kids"  group-title="Kids",Super Kids
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str186
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MiniMax"  group-title="Kids",MiniMax
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str187
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mini Ultra"  group-title="Kids",Mini Ultra
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str115
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Hayatovci"  group-title="Kids",Hayatovci
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str130
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Sport═════"  group-title="Sport",═════Sport═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str19
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 1"  group-title="Sport",Arenasport 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str21
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 2"  group-title="Sport",Arenasport 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str22
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 3"  group-title="Sport",Arenasport 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str23
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 4"  group-title="Sport",Arenasport 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str24
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 5"  group-title="Sport",Arenasport 5
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str16
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 1"  group-title="Sport",SK 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str19
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 2"  group-title="Sport",SK 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str20
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SK 3"  group-title="Sport",SK 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str15
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 1 HR"  group-title="Sport",Arenasport 1 HR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str192
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 2 HR"  group-title="Sport",Arenasport 2 HR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str193
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 3 HR"  group-title="Sport",Arenasport 3 HR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str194
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 4 HR"  group-title="Sport",Arenasport 4 HR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str195
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arenasport 5 HR"  group-title="Sport",Arenasport 5 HR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str196
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 1"  group-title="Sport",Supersport 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr81
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 2"  group-title="Sport",Supersport 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr82
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 3"  group-title="Sport",Supersport 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr83
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport 4"  group-title="Sport",Supersport 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr84
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport"  group-title="Sport",Eurosport
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str62
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str63
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Deutsch═════"  group-title="Deutsch",═════Deutsch═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str269
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Arte"  group-title="Deutsch",Arte
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str275
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARD"  group-title="Deutsch",ARD
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str267
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ZDF"  group-title="Deutsch",ZDF
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str268
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL DE"  group-title="Deutsch",RTL DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str269
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 2 DE"  group-title="Deutsch",RTL 2 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str270
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAT 1"  group-title="Deutsch",SAT 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str271
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vox"  group-title="Deutsch",Vox
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str272
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro 7"  group-title="Deutsch",Pro 7
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str273
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kabel 1"  group-title="Deutsch",Kabel 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str274
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Kika"  group-title="Deutsch",S Kika
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str276
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Discovery Channel"  group-title="Deutsch",S Discovery Channel
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str277
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S National Geographic"  group-title="Deutsch",S National Geographic
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str278
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Nat Geo Wild"  group-title="Deutsch",S Nat Geo Wild
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str279
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S History"  group-title="Deutsch",S History
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str280
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Dmax"  group-title="Deutsch",S Dmax
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str281
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Syfy"  group-title="Deutsch",S Syfy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str282
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S AXN"  group-title="Deutsch",S AXN
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str283
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Fox"  group-title="Deutsch",S Fox
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str284
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Hits"  group-title="Deutsch",S Hits
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str285
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema De"  group-title="Deutsch",Sky Cinema De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str116
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Action De"  group-title="Deutsch",Sky Action De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str117
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Cinema 24 De"  group-title="Deutsch",Sky Cinema 24 De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str118
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 1 De"  group-title="Deutsch",Sky Sport 1 De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str119
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport 2 De"  group-title="Deutsch",Sky Sport 2 De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str120
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga"  group-title="Deutsch",Sky Bundesliga
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str121
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 1"  group-title="Deutsch",Lig TV 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str122
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 2"  group-title="Deutsch",Lig TV 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str123
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Lig TV 3"  group-title="Deutsch",Lig TV 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str124
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Sport News DE"  group-title="Deutsch",Sky Sport News DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str262
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 2 DE"  group-title="Deutsch",Sky Bundesliga 2 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str263
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 3 DE"  group-title="Deutsch",Sky Bundesliga 3 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str264
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 4 DE"  group-title="Deutsch",Sky Bundesliga 4 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str265
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sky Bundesliga 5 DE"  group-title="Deutsch",Sky Bundesliga 5 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str266
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Comedy"  group-title="Deutsch",S Comedy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str286
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Atlantic"  group-title="Deutsch",S Atlantic
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str287
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Emotion"  group-title="Deutsch",S Emotion
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str288
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Krimi"  group-title="Deutsch",S Krimi
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str289
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S 13 Street"  group-title="Deutsch",S 13 Street
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str290
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 1"  group-title="Deutsch",S Sele 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str291
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 2"  group-title="Deutsch",S Sele 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str292
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 3"  group-title="Deutsch",S Sele 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str293
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 4"  group-title="Deutsch",S Sele 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str294
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 5"  group-title="Deutsch",S Sele 5
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str295
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Sele 6"  group-title="Deutsch",S Sele 6
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str296
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 1 DE"  group-title="Deutsch",Sports Time 1 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str297
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 2 DE"  group-title="Deutsch",Sports Time 2 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str298
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 3 De"  group-title="Deutsch",Sports Time 3 De
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str299
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 4 DE"  group-title="Deutsch",Sports Time 4 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str300
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 5 DE"  group-title="Deutsch",Sports Time 5 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str301
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sports Time 6 DE"  group-title="Deutsch",Sports Time 6 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str302
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3 SAT"  group-title="Deutsch",3 SAT
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str303
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 1"  group-title="Deutsch",ORF 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str304
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ORF 2"  group-title="Deutsch",ORF 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str305
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ATV 24"  group-title="Deutsch",ATV 24
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str306
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S MGM"  group-title="Deutsch",S MGM
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str307
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sixx"  group-title="Deutsch",Sixx
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str308
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Super DE"  group-title="Deutsch",RTL Super DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str309
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History"  group-title="Deutsch",History
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str310
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Baden TV DE"  group-title="Deutsch",Baden TV DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str311
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Joiz DE"  group-title="Deutsch",Joiz DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str312
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QVC DE"  group-title="Deutsch",QVC DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str313
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telebarn DE"  group-title="Deutsch",Telebarn DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str314
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tagesschau 24 DE"  group-title="Deutsch",Tagesschau 24 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str315
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Welt Der Wunder TV DE"  group-title="Deutsch",Welt Der Wunder TV DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str316
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RIC DE"  group-title="Deutsch",RIC DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str317
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RAN 1 Dessau DE"  group-title="Deutsch",RAN 1 Dessau DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str318
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pro 7 Max"  group-title="Deutsch",Pro 7 Max
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str319
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NDR DE"  group-title="Deutsch",NDR DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str320
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WDR DE"  group-title="Deutsch",WDR DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str321
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Film DE"  group-title="Deutsch",TNT Film DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str322
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TNT Serie DE"  group-title="Deutsch",TNT Serie DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str323
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="S Movie Family DE"  group-title="Deutsch",S Movie Family DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str324
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Channel DE"  group-title="Deutsch",Disney Channel DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str325
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crimi DE"  group-title="Deutsch",RTL Crimi DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str326
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Nitro DE"  group-title="Deutsch",RTL Nitro DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str327
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Passion DE"  group-title="Deutsch",RTL Passion DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str328
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SRF 1 DE"  group-title="Deutsch",SRF 1 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str329
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SRF 2 DE"  group-title="Deutsch",SRF 2 DE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str330
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Netherlands═════"  group-title="Netherlands",═════Netherlands═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str334
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO NL"  group-title="Netherlands",HBO NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str331
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 2 NL"  group-title="Netherlands",HBO 2 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str332
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO 3 NL"  group-title="Netherlands",HBO 3 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str333
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Sundance NL"  group-title="Netherlands",Film 1 Sundance NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str334
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Premiere NL"  group-title="Netherlands",Film 1 Premiere NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str335
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Comedy NL"  group-title="Netherlands",Film 1 Comedy NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str336
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Spotlight NL"  group-title="Netherlands",Film 1 Spotlight NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str337
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film 1 Action NL"  group-title="Netherlands",Film 1 Action NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str338
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 1 NL"  group-title="Netherlands",Fox Sport 1 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str339
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 2 NL"  group-title="Netherlands",Fox Sport 2 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str340
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 3 NL"  group-title="Netherlands",Fox Sport 3 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str341
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 4 NL"  group-title="Netherlands",Fox Sport 4 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str342
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 5 NL"  group-title="Netherlands",Fox Sport 5 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str343
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sport 6 NL"  group-title="Netherlands",Fox Sport 6 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str344
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 1 NL"  group-title="Netherlands",NPO 1 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str345
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 2 NL"  group-title="Netherlands",NPO 2 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str346
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NPO 3 NL"  group-title="Netherlands",NPO 3 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str347
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 4 NL"  group-title="Netherlands",RTL 4 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str348
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 5 NL"  group-title="Netherlands",RTL 5 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str349
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Net 5 NL"  group-title="Netherlands",Net 5 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str350
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS 6 NL"  group-title="Netherlands",SBS 6 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str351
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 7 NL"  group-title="Netherlands",RTL 7 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str352
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL 8 NL"  group-title="Netherlands",RTL 8 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str353
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SBS 9 NL"  group-title="Netherlands",SBS 9 NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str354
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Crime NL"  group-title="Netherlands",RTL Crime NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str355
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="13 TH Street NL"  group-title="Netherlands",13 TH Street NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str356
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Syfy NL"  group-title="Netherlands",Syfy NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str357
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTL Z NL"  group-title="Netherlands",RTL Z NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str358
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Animal Planet NL"  group-title="Netherlands",Animal Planet NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str359
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="History NL"  group-title="Netherlands",History NL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str360
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════SK═════"  group-title="SK",═════SK═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str35
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 2"  group-title="SK",MRT 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str56
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 3"  group-title="SK",MRT 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str188
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sutel"  group-title="SK",Sutel
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str189
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Comedy Central Extra"  group-title="SK",Comedy Central Extra
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str190
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Plus Kumanovo"  group-title="SK",TV Plus Kumanovo
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str191
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC"  group-title="SK",TLC
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str197
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24 Kitchen"  group-title="Doku & Style",24 Kitchen
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str198
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 6"  group-title="SK",TV 6
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str218
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film nje"  group-title="SK",Film nje
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr85
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Dy"  group-title="SK",Film Dy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr86
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Klan Kosova"  group-title="SK",Klan Kosova
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr87
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Film" tvg-name="Film Triller"  group-title="SK",Film Triller
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr88
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="T 1"  group-title="SK",T 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr89
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cufo"  group-title="SK",Cufo
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr90
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alsat M"  group-title="SK",Alsat M
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr91
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Klan"  group-title="SK",TV Klan
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr92
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="KTV"  group-title="SK",KTV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr93
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Top Channel"  group-title="SK",Top Channel
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr94
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Autor"  group-title="SK",Film Autor
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr95
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanali 7"  group-title="SK",Kanali 7
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr96
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 1"  group-title="SK",RTK 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr97
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVSH"  group-title="SK",TVSH
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr98
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STV Folk"  group-title="SK",STV Folk
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr99
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersonic"  group-title="SK",Supersonic
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr100
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21"  group-title="SK",RTV 21
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr103
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="First TV"  group-title="SK",First TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr104
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Club TV"  group-title="SK",Club TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr105
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Film Aksion"  group-title="SK",Film Aksion
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr106
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EXP Shkence"  group-title="SK",EXP Shkence
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr107
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bang Bang"  group-title="SK",Bang Bang
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr108
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Digi Gold"  group-title="SK",Digi Gold
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr110
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RRokum"  group-title="SK",RRokum
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr111
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Music Al"  group-title="SK",Music Al
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr112
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Plus HD"  group-title="SK",Plus HD
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr113
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Show TV TR"  group-title="SK",Show TV TR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str125
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal D TR"  group-title="SK",Kanal D TR
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str126
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5 plus MK"  group-title="SK",Kanal 5 plus MK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str76b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24 Vesti MK"  group-title="SK",24 Vesti MK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str78b
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Exp Natyra"  group-title="SK",Exp Natyra
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr128
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Plus"  group-title="SK",RTV 21 Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr129
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Dasma TV"  group-title="SK",Dasma TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr131
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vizion Plus"  group-title="SK",Vizion Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr132
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Top News"  group-title="SK",Top News
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr133
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BBF Music"  group-title="SK",BBF Music
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr134
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Popullore"  group-title="SK",RTV 21 Popullore
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr135
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Juniore"  group-title="SK",RTV 21 Juniore
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr136
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Folk Plus"  group-title="SK",Folk Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr137
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Era TV"  group-title="SK",Era TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr138
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Stinet"  group-title="SK",Stinet
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr139
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Jolly HD"  group-title="SK",Jolly HD
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr140
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport Kosova 1"  group-title="SK",Supersport Kosova 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr145
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Supersport Kosova 2"  group-title="SK",Supersport Kosova 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr146
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Super"  group-title="SK",Tring Super
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr147
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Planet"  group-title="SK",Tring Planet
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr148
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Max"  group-title="SK",Tring Max
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr149
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Life"  group-title="SK",Tring Life
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr150
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Fantasy"  group-title="SK",Tring Fantasy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr151
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 3"  group-title="SK",RTK 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr152
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Tring"  group-title="SK",Tring Tring
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr153
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTK 4"  group-title="SK",RTK 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr154
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTV 21 Mix"  group-title="SK",RTV 21 Mix
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr222
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="3 Plus"  group-title="SK",3 Plus
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr223
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="On TV"  group-title="SK",On TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr224
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ABC News"  group-title="SK",ABC News
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr225
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Clic TV"  group-title="SK",Clic TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr226
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Explorer History"  group-title="SK",Explorer History
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr227
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport News"  group-title="SK",Tring Sport News
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr228
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 1"  group-title="SK",Tring Sport 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr229
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 2"  group-title="SK",Tring Sport 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr230
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 3"  group-title="SK",Tring Sport 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr231
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Sport 4"  group-title="SK",Tring Sport 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr232
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sofia"  group-title="SK",Sofia
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr233
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tip TV"  group-title="SK",Tip TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr234
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Comedy"  group-title="SK",Tring Comedy
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr235
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tring Shqip"  group-title="SK",Tring Shqip
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr236
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Travel AL"  group-title="SK",Travel AL
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr237
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Motors TV"  group-title="SK",Motors TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr238
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Muse"  group-title="SK",Muse
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr239
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Smile TV"  group-title="SK",Smile TV
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/albstr240
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VH 1"  group-title="SK",VH 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str254
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DR 1  DK"  group-title="SK",DR 1  DK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str361
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DR 2  DK"  group-title="SK",DR 2  DK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str362
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 4  DK"  group-title="SK",Kanal 4  DK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str363
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="6 Eren  DK"  group-title="SK",6 Eren  DK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str364
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STV 1 SE"  group-title="SK",STV 1 SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str365
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SVT 2  SE"  group-title="SK",SVT 2  SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str366
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 3  SE"  group-title="SK",TV 3  SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str367
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV 4  SE"  group-title="SK",TV 4  SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str368
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5  SE"  group-title="SK",Kanal 5  SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str369
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Viasat Hits  SE"  group-title="SK",Viasat Hits  SE
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str370
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Sitel"  group-title="SK",TV Sitel
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str33
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Sitel 3"  group-title="SK",Sitel 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str52
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kanal 5 MK"  group-title="SK",Kanal 5 MK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str34
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telma"  group-title="SK",Telma
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str35
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="A1 Strumica"  group-title="SK",A1 Strumica
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str53
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MRT 1"  group-title="SK",MRT 1
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str31
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alfa MK"  group-title="SK",Alfa MK
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str32
-
-#EXTINF:0, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="═════Adult XXX═════"  group-title="XXX",═════Adult XXX═════
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str60
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX"  group-title="XXX",XXX
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str60
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 2"  group-title="XXX",XXX 2
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str141
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 3"  group-title="XXX",XXX 3
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str142
-
-#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="XXX 4"  group-title="XXX",XXX 4
-http://sandi.cristianoSanelD:SanelDsandi.cristiano@tvadria.co.uk:8080/str143
-
-#EXTINF:0, tvg-id="1040" tvg-logo="/noicon.png" tvg-name="----- Videoteka ----- - ----- Videoteka -----"  group-title="Videoteka",----- Videoteka ----- - ----- Videoteka -----
-Group N/A
-
-#EXTINF:0, tvg-id="1041" tvg-logo="/noicon.png" tvg-name="Akcija tigar - Akcija tigar"  group-title="Videoteka",Akcija tigar - Akcija tigar
-http://movie.bossna-caffe.com/movies/domaci/02.avi
-
-#EXTINF:0, tvg-id="1042" tvg-logo="/noicon.png" tvg-name="Apsolutnih sto - Apsolutnih sto"  group-title="Videoteka",Apsolutnih sto - Apsolutnih sto
-http://movie.bossna-caffe.com/movies/domaci/03.avi
-
-#EXTINF:0, tvg-id="1043" tvg-logo="/noicon.png" tvg-name="Balkanski spijun - Balkanski spijun"  group-title="Videoteka",Balkanski spijun - Balkanski spijun
-http://movie.bossna-caffe.com/movies/domaci/04.avi
-
-#EXTINF:0, tvg-id="1044" tvg-logo="/noicon.png" tvg-name="Duhovi Sarajeva - Duhovi Sarajeva"  group-title="Videoteka",Duhovi Sarajeva - Duhovi Sarajeva
-http://movie.bossna-caffe.com/movies/domaci/05.mp4
-
-#EXTINF:0, tvg-id="1045" tvg-logo="/noicon.png" tvg-name="Idi mi dodji mi - Idi mi dodji mi"  group-title="Videoteka",Idi mi dodji mi - Idi mi dodji mi
-http://movie.bossna-caffe.com/movies/domaci/06.avi
-
-#EXTINF:0, tvg-id="1046" tvg-logo="/noicon.png" tvg-name="Kakav deda takav unuk - Kakav deda takav unuk"  group-title="Videoteka",Kakav deda takav unuk - Kakav deda takav unuk
-http://movie.bossna-caffe.com/movies/domaci/07.avi
-
-#EXTINF:0, tvg-id="1047" tvg-logo="/noicon.png" tvg-name="Karaula - Karaula"  group-title="Videoteka",Karaula - Karaula
-http://movie.bossna-caffe.com/movies/domaci/08.avi
-
-#EXTINF:0, tvg-id="1048" tvg-logo="/noicon.png" tvg-name="Ko To Tamo Peva - Ko To Tamo Peva"  group-title="Videoteka",Ko To Tamo Peva - Ko To Tamo Peva
-http://movie.bossna-caffe.com/movies/domaci/09.mp4
-
-#EXTINF:0, tvg-id="1049" tvg-logo="/noicon.png" tvg-name="Kuduz - Kuduz"  group-title="Videoteka",Kuduz - Kuduz
-http://movie.bossna-caffe.com/movies/domaci/10.avi
-
-#EXTINF:0, tvg-id="1050" tvg-logo="/noicon.png" tvg-name="Lajanje na zvezde - Lajanje na zvezde"  group-title="Videoteka",Lajanje na zvezde - Lajanje na zvezde
-http://movie.bossna-caffe.com/movies/domaci/11.avi
-
-#EXTINF:0, tvg-id="1051" tvg-logo="/noicon.png" tvg-name="Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi"  group-title="Videoteka",Ljubi ljubi al glavu ne gubi - Ljubi ljubi al glavu ne gubi
-http://movie.bossna-caffe.com/movies/domaci/12.avi
-
-#EXTINF:0, tvg-id="1052" tvg-logo="/noicon.png" tvg-name="Mali Budo - Mali Budo"  group-title="Videoteka",Mali Budo - Mali Budo
-http://movie.bossna-caffe.com/movies/domaci/13.mp4
-
-#EXTINF:0, tvg-id="1053" tvg-logo="/noicon.png" tvg-name="Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug"  group-title="Videoteka",Maratonci Trce Pocasni Krug - Maratonci Trce Pocasni Krug
-http://movie.bossna-caffe.com/movies/domaci/14.mkv
-
-#EXTINF:0, tvg-id="1054" tvg-logo="/noicon.png" tvg-name="Mi nismo andjeli - Mi nismo andjeli"  group-title="Videoteka",Mi nismo andjeli - Mi nismo andjeli
-http://movie.bossna-caffe.com/movies/domaci/15.avi
-
-#EXTINF:0, tvg-id="1055" tvg-logo="/noicon.png" tvg-name="Mi nismo andjeli 3 - Mi nismo andjeli 3"  group-title="Videoteka",Mi nismo andjeli 3 - Mi nismo andjeli 3
-http://movie.bossna-caffe.com/movies/domaci/16.mp4
-
-#EXTINF:0, tvg-id="1056" tvg-logo="/noicon.png" tvg-name="Mrtav Ladan - Mrtav Ladan"  group-title="Videoteka",Mrtav Ladan - Mrtav Ladan
-http://movie.bossna-caffe.com/movies/domaci/17.mp4
-
-#EXTINF:0, tvg-id="1057" tvg-logo="/noicon.png" tvg-name="Munje - Munje"  group-title="Videoteka",Munje - Munje
-http://movie.bossna-caffe.com/movies/domaci/18.avi
-
-#EXTINF:0, tvg-id="1058" tvg-logo="/noicon.png" tvg-name="Nacionalna klasa - Nacionalna klasa"  group-title="Videoteka",Nacionalna klasa - Nacionalna klasa
-http://movie.bossna-caffe.com/movies/domaci/19.avi
-
-#EXTINF:0, tvg-id="1059" tvg-logo="/noicon.png" tvg-name="Nebo nad krajolikom - Nebo nad krajolikom"  group-title="Videoteka",Nebo nad krajolikom - Nebo nad krajolikom
-http://movie.bossna-caffe.com/movies/domaci/20.avi
-
-#EXTINF:0, tvg-id="1060" tvg-logo="/noicon.png" tvg-name="Nije lako sa muskarcima - Nije lako sa muskarcima"  group-title="Videoteka",Nije lako sa muskarcima - Nije lako sa muskarcima
-http://movie.bossna-caffe.com/movies/domaci/21.avi
-
-#EXTINF:0, tvg-id="1061" tvg-logo="/noicon.png" tvg-name="Otac na sluzbenom putu - Otac na sluzbenom putu"  group-title="Videoteka",Otac na sluzbenom putu - Otac na sluzbenom putu
-http://movie.bossna-caffe.com/movies/domaci/22.mp4
-
-#EXTINF:0, tvg-id="1062" tvg-logo="/noicon.png" tvg-name="Partizanska eskadrila - Partizanska eskadrila"  group-title="Videoteka",Partizanska eskadrila - Partizanska eskadrila
-http://movie.bossna-caffe.com/movies/domaci/23.mkv
-
-#EXTINF:0, tvg-id="1063" tvg-logo="/noicon.png" tvg-name="Sekula i njegove zene - Sekula i njegove zene"  group-title="Videoteka",Sekula i njegove zene - Sekula i njegove zene
-http://movie.bossna-caffe.com/movies/domaci/24.mp4
-
-#EXTINF:0, tvg-id="1064" tvg-logo="/noicon.png" tvg-name="Sjecas li se Dolly Bell - Sjecas li se Dolly Bell"  group-title="Videoteka",Sjecas li se Dolly Bell - Sjecas li se Dolly Bell
-http://movie.bossna-caffe.com/movies/domaci/25.avi
-
-#EXTINF:0, tvg-id="1065" tvg-logo="/noicon.png" tvg-name="Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi"  group-title="Videoteka",Sta se zgodi kad se ljubav rodi - Sta se zgodi kad se ljubav rodi
-http://movie.bossna-caffe.com/movies/domaci/26.avi
-
-#EXTINF:0, tvg-id="1066" tvg-logo="/noicon.png" tvg-name="Tesna koza 1 - Tesna koza 1"  group-title="Videoteka",Tesna koza 1 - Tesna koza 1
-http://movie.bossna-caffe.com/movies/domaci/27.avi
-
-#EXTINF:0, tvg-id="1067" tvg-logo="/noicon.png" tvg-name="Tesna koza 2 - Tesna koza 2"  group-title="Videoteka",Tesna koza 2 - Tesna koza 2
-http://movie.bossna-caffe.com/movies/domaci/28.avi
-
-#EXTINF:0, tvg-id="1068" tvg-logo="/noicon.png" tvg-name="Tesna koza 3 - Tesna koza 3"  group-title="Videoteka",Tesna koza 3 - Tesna koza 3
-http://s6.bossna-caffe.com:80/live?channelId=1068&uid=14947&deviceUser=matilda1&devicePass=RDZrdrmatilda1676vhgc
-
-#EXTINF:0, tvg-id="1069" tvg-logo="/noicon.png" tvg-name="Tesna koza 4 - Tesna koza 4"  group-title="Videoteka",Tesna koza 4 - Tesna koza 4
-http://movie.bossna-caffe.com/movies/domaci/30.avi
-
-#EXTINF:0, tvg-id="1070" tvg-logo="/noicon.png" tvg-name="Valter brani Sarajevo - Valter brani Sarajevo"  group-title="Videoteka",Valter brani Sarajevo - Valter brani Sarajevo
-http://movie.bossna-caffe.com/movies/domaci/31.avi
-
-#EXTINF:0, tvg-id="1071" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija - Zikina Dinastija"  group-title="Videoteka",Zikina Dinastija - Zikina Dinastija
-http://movie.bossna-caffe.com/movies/domaci/34.avi
-
-#EXTINF:0, tvg-id="1072" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija 2 - Zikina Dinastija 2"  group-title="Videoteka",Zikina Dinastija 2 - Zikina Dinastija 2
-http://movie.bossna-caffe.com/movies/domaci/32.mp4
-
-#EXTINF:0, tvg-id="1073" tvg-logo="/noicon.png" tvg-name="Zikina Dinastija 4 - Zikina Dinastija 4"  group-title="Videoteka",Zikina Dinastija 4 - Zikina Dinastija 4
-http://movie.bossna-caffe.com/movies/domaci/33.avi
-
-#EXTINF:0, tvg-id="1074" tvg-logo="/noicon.png" tvg-name="Zivi i mrtvi - Zivi i mrtvi"  group-title="Videoteka",Zivi i mrtvi - Zivi i mrtvi
-http://movie.bossna-caffe.com/movies/domaci/01.avi
-
-#EXTINF:0, tvg-id="1075" tvg-logo="/noicon.png" tvg-name="----- Strani ----- - ----- Strani -----"  group-title="Videoteka",----- Strani ----- - ----- Strani -----
-Group N/A
-
-#EXTINF:0, tvg-id="1076" tvg-logo="/noicon.png" tvg-name="2 Guns Zero Tolerance - 2 Guns Zero Tolerance"  group-title="Videoteka",2 Guns Zero Tolerance - 2 Guns Zero Tolerance
-http://movie.bossna-caffe.com/movies/strani/01.mp4
-
-#EXTINF:0, tvg-id="1077" tvg-logo="/noicon.png" tvg-name="American Hero - American Hero"  group-title="Videoteka",American Hero - American Hero
-http://movie.bossna-caffe.com/movies/strani/02.mp4
-
-#EXTINF:0, tvg-id="1078" tvg-logo="/noicon.png" tvg-name="Band of Robbers - Band of Robbers"  group-title="Videoteka",Band of Robbers - Band of Robbers
-http://movie.bossna-caffe.com/movies/strani/03.mp4
-
-#EXTINF:0, tvg-id="1079" tvg-logo="/noicon.png" tvg-name="Bridge of Spies - Bridge of Spies"  group-title="Videoteka",Bridge of Spies - Bridge of Spies
-http://movie.bossna-caffe.com/movies/strani/04.mp4
-
-#EXTINF:0, tvg-id="1080" tvg-logo="/noicon.png" tvg-name="Creed - Creed"  group-title="Videoteka",Creed - Creed
-http://movie.bossna-caffe.com/movies/strani/05.mp4
-
-#EXTINF:0, tvg-id="1081" tvg-logo="/noicon.png" tvg-name="Dirty Grandpa - Dirty Grandpa"  group-title="Videoteka",Dirty Grandpa - Dirty Grandpa
-http://movie.bossna-caffe.com/movies/strani/06.mp4
-
-#EXTINF:0, tvg-id="1082" tvg-logo="/noicon.png" tvg-name="Gangster Squad - Gangster Squad"  group-title="Videoteka",Gangster Squad - Gangster Squad
-http://movie.bossna-caffe.com/movies/strani/07.mp4
-
-#EXTINF:0, tvg-id="1083" tvg-logo="/noicon.png" tvg-name="Irrational Man - Irrational Man"  group-title="Videoteka",Irrational Man - Irrational Man
-http://movie.bossna-caffe.com/movies/strani/08.mp4
-
-#EXTINF:0, tvg-id="1084" tvg-logo="/noicon.png" tvg-name="Jurassic World - Jurassic World"  group-title="Videoteka",Jurassic World - Jurassic World
-http://movie.bossna-caffe.com/movies/strani/09.mp4
-
-#EXTINF:0, tvg-id="1085" tvg-logo="/noicon.png" tvg-name="Kingsman The Secret Service - Kingsman The Secret Service"  group-title="Videoteka",Kingsman The Secret Service - Kingsman The Secret Service
-http://movie.bossna-caffe.com/movies/strani/10.mp4
-
-#EXTINF:0, tvg-id="1086" tvg-logo="/noicon.png" tvg-name="Laugh Killer Laugh - Laugh Killer Laugh"  group-title="Videoteka",Laugh Killer Laugh - Laugh Killer Laugh
-http://movie.bossna-caffe.com/movies/strani/11.mp4
-
-#EXTINF:0, tvg-id="1087" tvg-logo="/noicon.png" tvg-name="Legend - Legend"  group-title="Videoteka",Legend - Legend
-http://movie.bossna-caffe.com/movies/strani/12.mp4
-
-#EXTINF:0, tvg-id="1088" tvg-logo="/noicon.png" tvg-name="London Has Fallen - London Has Fallen"  group-title="Videoteka",London Has Fallen - London Has Fallen
-http://movie.bossna-caffe.com/movies/strani/13.mp4
-
-#EXTINF:0, tvg-id="1089" tvg-logo="/noicon.png" tvg-name="Mad Max Fury Road - Mad Max Fury Road"  group-title="Videoteka",Mad Max Fury Road - Mad Max Fury Road
-http://movie.bossna-caffe.com/movies/strani/14.mp4
-
-#EXTINF:0, tvg-id="1090" tvg-logo="/noicon.png" tvg-name="Risen - Risen"  group-title="Videoteka",Risen - Risen
-http://movie.bossna-caffe.com/movies/strani/15.mp4
-
-#EXTINF:0, tvg-id="1091" tvg-logo="/noicon.png" tvg-name="San Andreas - San Andreas"  group-title="Videoteka",San Andreas - San Andreas
-http://movie.bossna-caffe.com/movies/strani/16.mp4
-
-#EXTINF:0, tvg-id="1092" tvg-logo="/noicon.png" tvg-name="Slow West - Slow West"  group-title="Videoteka",Slow West - Slow West
-http://movie.bossna-caffe.com/movies/strani/17.mp4
-
-#EXTINF:0, tvg-id="1093" tvg-logo="/noicon.png" tvg-name="Star Wars The Force Awakens - Star Wars The Force Awakens"  group-title="Videoteka",Star Wars The Force Awakens - Star Wars The Force Awakens
-http://movie.bossna-caffe.com/movies/strani/18.mp4
-
-#EXTINF:0, tvg-id="1094" tvg-logo="/noicon.png" tvg-name="The Benefactor - The Benefactor"  group-title="Videoteka",The Benefactor - The Benefactor
-http://movie.bossna-caffe.com/movies/strani/19.mp4
-
-#EXTINF:0, tvg-id="1095" tvg-logo="/noicon.png" tvg-name="The Expendables 3 - The Expendables 3"  group-title="Videoteka",The Expendables 3 - The Expendables 3
-http://movie.bossna-caffe.com/movies/strani/20.mp4
-
-#EXTINF:0, tvg-id="1096" tvg-logo="/noicon.png" tvg-name="The Forger - The Forger"  group-title="Videoteka",The Forger - The Forger
-http://movie.bossna-caffe.com/movies/strani/21.mp4
-
-#EXTINF:0, tvg-id="1097" tvg-logo="/noicon.png" tvg-name="The Last Witch Hunter - The Last Witch Hunter"  group-title="Videoteka",The Last Witch Hunter - The Last Witch Hunter
-http://movie.bossna-caffe.com/movies/strani/22.mp4
-
-#EXTINF:0, tvg-id="1098" tvg-logo="/noicon.png" tvg-name="The Legend of Tarzan - The Legend of Tarzan"  group-title="Videoteka",The Legend of Tarzan - The Legend of Tarzan
-http://movie.bossna-caffe.com/movies/strani/23.mp4
-
-#EXTINF:0, tvg-id="1099" tvg-logo="/noicon.png" tvg-name="The Martian - The Martian"  group-title="Videoteka",The Martian - The Martian
-http://movie.bossna-caffe.com/movies/strani/23.mp4
-
-#EXTINF:0, tvg-id="1100" tvg-logo="/noicon.png" tvg-name="The Trust - The Trust"  group-title="Videoteka",The Trust - The Trust
-http://movie.bossna-caffe.com/movies/strani/25.mp4
-
-#EXTINF:0, tvg-id="1101" tvg-logo="/noicon.png" tvg-name="The Big Short - The Big Short"  group-title="Videoteka",The Big Short - The Big Short
-http://movie.bossna-caffe.com/movies/strani/26.mp4
-
-#EXTINF:0, tvg-id="1102" tvg-logo="/noicon.png" tvg-name="The Hateful Eight - The Hateful Eight"  group-title="Videoteka",The Hateful Eight - The Hateful Eight
-http://movie.bossna-caffe.com/movies/strani/27.mp4
-
-#EXTINF:0, tvg-id="1103" tvg-logo="/noicon.png" tvg-name="The Revenant - The Revenant"  group-title="Videoteka",The Revenant - The Revenant
-http://movie.bossna-caffe.com/movies/strani/28.mp4
-
-#EXTINF:0, tvg-id="1104" tvg-logo="/noicon.png" tvg-name="Warcraft - Warcraft"  group-title="Videoteka",Warcraft - Warcraft
-http://movie.bossna-caffe.com/movies/strani/29.mp4
-
-#EXTINF:0, tvg-id="1105" tvg-logo="/noicon.png" tvg-name="----- Crtani  ----- - ----- Crtani  -----"  group-title="Videoteka",----- Crtani  ----- - ----- Crtani  -----
-Group N/A
-
-#EXTINF:0, tvg-id="1106" tvg-logo="/noicon.png" tvg-name="Alvin i Veverice 3 - Alvin i Veverice 3"  group-title="Videoteka",Alvin i Veverice 3 - Alvin i Veverice 3
-http://movie.bossna-caffe.com/movies/crtani/01.avi
-
-#EXTINF:0, tvg-id="1107" tvg-logo="/noicon.png" tvg-name="Arthur u zemlji Minimoya - Arthur u zemlji Minimoya"  group-title="Videoteka",Arthur u zemlji Minimoya - Arthur u zemlji Minimoya
-http://movie.bossna-caffe.com/movies/crtani/02.mkv
-
-#EXTINF:0, tvg-id="1108" tvg-logo="/noicon.png" tvg-name="Automobili - Automobili"  group-title="Videoteka",Automobili - Automobili
-http://movie.bossna-caffe.com/movies/crtani/03.avi
-
-#EXTINF:0, tvg-id="1109" tvg-logo="/noicon.png" tvg-name="Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci"  group-title="Videoteka",Avioni 2 Nebeski vatrogasci - Avioni 2 Nebeski vatrogasci
-http://movie.bossna-caffe.com/movies/crtani/04.avi
-
-#EXTINF:0, tvg-id="1110" tvg-logo="/noicon.png" tvg-name="Barbi i tri musketira - Barbi i tri musketira"  group-title="Videoteka",Barbi i tri musketira - Barbi i tri musketira
-http://movie.bossna-caffe.com/movies/crtani/05.avi
-
-#EXTINF:0, tvg-id="1111" tvg-logo="/noicon.png" tvg-name="Barbi Savrsen Bozic - Barbi Savrsen Bozic"  group-title="Videoteka",Barbi Savrsen Bozic - Barbi Savrsen Bozic
-http://movie.bossna-caffe.com/movies/crtani/06.avi
-
-#EXTINF:0, tvg-id="1112" tvg-logo="/noicon.png" tvg-name="Barbie i carobni pegaz - Barbie i carobni pegaz"  group-title="Videoteka",Barbie i carobni pegaz - Barbie i carobni pegaz
-http://movie.bossna-caffe.com/movies/crtani/07.avi
-
-#EXTINF:0, tvg-id="1113" tvg-logo="/noicon.png" tvg-name="Barbie Mariposa - Barbie Mariposa"  group-title="Videoteka",Barbie Mariposa - Barbie Mariposa
-http://movie.bossna-caffe.com/movies/crtani/08.avi
-
-#EXTINF:0, tvg-id="1114" tvg-logo="/noicon.png" tvg-name="Despicable Me 2 - Despicable Me 2"  group-title="Videoteka",Despicable Me 2 - Despicable Me 2
-http://movie.bossna-caffe.com/movies/crtani/10.mkv
-
-#EXTINF:0, tvg-id="1115" tvg-logo="/noicon.png" tvg-name="Dinosaurus - Dinosaurus"  group-title="Videoteka",Dinosaurus - Dinosaurus
-http://movie.bossna-caffe.com/movies/crtani/11.avi
-
-#EXTINF:0, tvg-id="1116" tvg-logo="/noicon.png" tvg-name="Kako trenirati zmaja 2 - Kako trenirati zmaja 2"  group-title="Videoteka",Kako trenirati zmaja 2 - Kako trenirati zmaja 2
-http://movie.bossna-caffe.com/movies/crtani/12.mkv
-
-#EXTINF:0, tvg-id="1117" tvg-logo="/noicon.png" tvg-name="Knjiga o dzungli 2 - Knjiga o dzungli 2"  group-title="Videoteka",Knjiga o dzungli 2 - Knjiga o dzungli 2
-http://movie.bossna-caffe.com/movies/crtani/13.avi
-
-#EXTINF:0, tvg-id="1118" tvg-logo="/noicon.png" tvg-name="Kralj lavova - Kralj lavova"  group-title="Videoteka",Kralj lavova - Kralj lavova
-http://movie.bossna-caffe.com/movies/crtani/14.avi
-
-#EXTINF:0, tvg-id="1119" tvg-logo="/noicon.png" tvg-name="Potraga za Nemom - Potraga za Nemom"  group-title="Videoteka",Potraga za Nemom - Potraga za Nemom
-http://movie.bossna-caffe.com/movies/crtani/15.avi
-
-#EXTINF:0, tvg-id="1120" tvg-logo="/noicon.png" tvg-name="Ruzno pace - Ruzno pace"  group-title="Videoteka",Ruzno pace - Ruzno pace
-http://movie.bossna-caffe.com/movies/crtani/16.mp4
-
-#EXTINF:0, tvg-id="1121" tvg-logo="/noicon.png" tvg-name="Setnja sa Dinosaurima - Setnja sa Dinosaurima"  group-title="Videoteka",Setnja sa Dinosaurima - Setnja sa Dinosaurima
-http://movie.bossna-caffe.com/movies/crtani/17.mp4
-
-#EXTINF:0, tvg-id="1122" tvg-logo="/noicon.png" tvg-name="Shrek - Shrek"  group-title="Videoteka",Shrek - Shrek
-http://movie.bossna-caffe.com/movies/crtani/18.avi
-
-#EXTINF:0, tvg-id="1123" tvg-logo="/noicon.png" tvg-name="Snjezno Kraljevstvo - Snjezno Kraljevstvo"  group-title="Videoteka",Snjezno Kraljevstvo - Snjezno Kraljevstvo
-http://movie.bossna-caffe.com/movies/crtani/20.avi
-
-#EXTINF:0, tvg-id="1124" tvg-logo="/noicon.png" tvg-name="Tarzan - Tarzan"  group-title="Videoteka",Tarzan - Tarzan
-http://movie.bossna-caffe.com/movies/crtani/19.avi
+#EXTM3U
+#EXTINF:-1,===== HRVATSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4721.m3u8
+#EXTINF:-1,HRT 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5476.m3u8
+#EXTINF:-1,HRT 1.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6751.m3u8
+#EXTINF:-1,HRT 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5797.m3u8
+#EXTINF:-1,HRT 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5800.m3u8
+#EXTINF:-1,HRT 4
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5842.m3u8
+#EXTINF:-1,NOVA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5479.m3u8
+#EXTINF:-1,NOVA TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4825.m3u8
+#EXTINF:-1,DOMA TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5481.m3u8
+#EXTINF:-1,RTL (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6752.m3u8
+#EXTINF:-1,RTL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5482.m3u8
+#EXTINF:-1,RTL 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5483.m3u8
+#EXTINF:-1,RTL CRIME
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5484.m3u8
+#EXTINF:-1,RTL LIVING
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5798.m3u8
+#EXTINF:-1,RTL PASSION HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5465.m3u8
+#EXTINF:-1,N1  HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5799.m3u8
+#EXTINF:-1,Z 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5486.m3u8
+#EXTINF:-1,OSIJECKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5627.m3u8
+#EXTINF:-1,SLAVONSKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5801.m3u8
+#EXTINF:-1,VINKOVACKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6010.m3u8
+#EXTINF:-1,BANOVINA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5819.m3u8
+#EXTINF:-1,VTV Varazdin
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5386.m3u8
+#EXTINF:-1,OTV Valentino
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5529.m3u8
+#EXTINF:-1,STUDENTSKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5914.m3u8
+#EXTINF:-1,===== BOSNA I HERCEGOVINA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4731.m3u8
+#EXTINF:-1,BHT 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5511.m3u8
+#EXTINF:-1,BHT HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5871.m3u8
+#EXTINF:-1,FEDERALNA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5512.m3u8
+#EXTINF:-1,FEDERALNA TV (BIH)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6753.m3u8
+#EXTINF:-1,TV SARAJEVO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5514.m3u8
+#EXTINF:-1,HAYAT HD.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6754.m3u8
+#EXTINF:-1,HAYAT HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5641.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5634.m3u8
+#EXTINF:-1,OBN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6541.m3u8
+#EXTINF:-1,OBN HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4758.m3u8
+#EXTINF:-1,RTRS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5716.m3u8
+#EXTINF:-1,FACE HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5519.m3u8
+#EXTINF:-1,FACE HD.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6755.m3u8
+#EXTINF:-1,ATV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5510.m3u8
+#EXTINF:-1,RTRS PLUS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6391.m3u8
+#EXTINF:-1,MOST TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5996.m3u8
+#EXTINF:-1,CITY TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5725.m3u8
+#EXTINF:-1,POSAVINA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5489.m3u8
+#EXTINF:-1,N1 HD (BiH)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6456.m3u8
+#EXTINF:-1,AL JAZZERA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5528.m3u8
+#EXTINF:-1,TV 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5747.m3u8
+#EXTINF:-1,JATA TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6400.m3u8
+#EXTINF:-1,IZVORNA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5845.m3u8
+#EXTINF:-1,TV SLON
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5522.m3u8
+#EXTINF:-1,BN TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4744.m3u8
+#EXTINF:-1,BN SAT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5520.m3u8
+#EXTINF:-1,MTV Igman HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5384.m3u8
+#EXTINF:-1,TK Tuzla
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4764.m3u8
+#EXTINF:-1,STUDENT TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4735.m3u8
+#EXTINF:-1,SANDZAK TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5624.m3u8
+#EXTINF:-1,GLAS DRINE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5711.m3u8
+#EXTINF:-1,BOSNA TV 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5708.m3u8
+#EXTINF:-1,USK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5870.m3u8
+#EXTINF:-1,KLADOVO TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5986.m3u8
+#EXTINF:-1,TV KAKANJ
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5931.m3u8
+#EXTINF:-1,KANAL 6 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5292.m3u8
+#EXTINF:-1,RTV 7
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5757.m3u8
+#EXTINF:-1,NEON TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6485.m3u8
+#EXTINF:-1,TV KIS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5756.m3u8
+#EXTINF:-1,TV 101 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6004.m3u8
+#EXTINF:-1,ELTA TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6114.m3u8
+#EXTINF:-1,ALFA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4850.m3u8
+#EXTINF:-1,MEKA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5629.m3u8
+#EXTINF:-1,TV 5 HD islam
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5712.m3u8
+#EXTINF:-1,A 1 ISLAM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4851.m3u8
+#EXTINF:-1,===== SRBIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4776.m3u8
+#EXTINF:-1,RTS 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6142.m3u8
+#EXTINF:-1,RTS 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5820.m3u8
+#EXTINF:-1,RTS 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5530.m3u8
+#EXTINF:-1,RTS 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5703.m3u8
+#EXTINF:-1,RTS SAT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5886.m3u8
+#EXTINF:-1,PRVA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6756.m3u8
+#EXTINF:-1,PRVA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5541.m3u8
+#EXTINF:-1,PRVA PLUS HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5542.m3u8
+#EXTINF:-1,PRVA  MAX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6546.m3u8
+#EXTINF:-1,PRVA WORLD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5962.m3u8
+#EXTINF:-1,B92
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5787.m3u8
+#EXTINF:-1,B92 INFO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5889.m3u8
+#EXTINF:-1,STUDIO B
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6495.m3u8
+#EXTINF:-1,N 1 HD  (RS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5883.m3u8
+#EXTINF:-1,HAPPY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5791.m3u8
+#EXTINF:-1,HAPPY (RS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6759.m3u8
+#EXTINF:-1,HAPPY PAROVI 24H (RS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6487.m3u8
+#EXTINF:-1,PALMA PLUS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5378.m3u8
+#EXTINF:-1,RTV VOJVODINA 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5737.m3u8
+#EXTINF:-1,RTV VOJVODINA 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5728.m3u8
+#EXTINF:-1,NOVOSADSKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5872.m3u8
+#EXTINF:-1,KCN 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5632.m3u8
+#EXTINF:-1,KCN 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5631.m3u8
+#EXTINF:-1,KCN 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5630.m3u8
+#EXTINF:-1,ISTOK TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4738.m3u8
+#EXTINF:-1,TV SUBOTICA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5720.m3u8
+#EXTINF:-1,TV LESKOVAC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4860.m3u8
+#EXTINF:-1,TV HAN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5726.m3u8
+#EXTINF:-1,TV Duga
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5724.m3u8
+#EXTINF:-1,MIR TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5718.m3u8
+#EXTINF:-1,NOVA RS HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5729.m3u8
+#EXTINF:-1,HRAM TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5727.m3u8
+#EXTINF:-1,BALKAN RTV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5721.m3u8
+#EXTINF:-1,RTV Novi Pazar
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4755.m3u8
+#EXTINF:-1,MLAVA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5873.m3u8
+#EXTINF:-1,TELEGRAF TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5302.m3u8
+#EXTINF:-1,PI KANAL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6488.m3u8
+#EXTINF:-1,===== CRNA GORA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6117.m3u8
+#EXTINF:-1,RTCG 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6524.m3u8
+#EXTINF:-1,RTCG 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4869.m3u8
+#EXTINF:-1,RTCG Sat
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5536.m3u8
+#EXTINF:-1,ATLAS TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5537.m3u8
+#EXTINF:-1,TV 777
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6402.m3u8
+#EXTINF:-1,TV VIJESTI
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5719.m3u8
+#EXTINF:-1,===== MAKEDONIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5367.m3u8
+#EXTINF:-1,SITEL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4816.m3u8
+#EXTINF:-1,SITEL 2 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5894.m3u8
+#EXTINF:-1,SITEL 3 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5421.m3u8
+#EXTINF:-1,KANAL 5 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5848.m3u8
+#EXTINF:-1,KANAL 5 + (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5849.m3u8
+#EXTINF:-1,MPT 1 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5397.m3u8
+#EXTINF:-1,MPT 2 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5852.m3u8
+#EXTINF:-1,MPT 3 (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5869.m3u8
+#EXTINF:-1,TELMA (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5851.m3u8
+#EXTINF:-1,24 VESTI (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5850.m3u8
+#EXTINF:-1,NOVA TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5418.m3u8
+#EXTINF:-1,ALFA (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5396.m3u8
+#EXTINF:-1,SONCE (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5802.m3u8
+#EXTINF:-1,SHUTEL TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4831.m3u8
+#EXTINF:-1,TV KANAL PLUS (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4826.m3u8
+#EXTINF:-1,STOP TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4734.m3u8
+#EXTINF:-1,IN TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5974.m3u8
+#EXTINF:-1,EDO (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6470.m3u8
+#EXTINF:-1,ERA TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6475.m3u8
+#EXTINF:-1,TV + (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6472.m3u8
+#EXTINF:-1,AL SAT (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6782.m3u8
+#EXTINF:-1,FEN TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6473.m3u8
+#EXTINF:-1,FOLKLOR TV (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6474.m3u8
+#EXTINF:-1,MEGA BITOLA (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6469.m3u8
+#EXTINF:-1,SOBRANSKI KANAL (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6471.m3u8
+#EXTINF:-1,TV HUGO (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5778.m3u8
+#EXTINF:-1,SKY MUSIC (MK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6001.m3u8
+#EXTINF:-1,===== SLOVENIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5643.m3u8
+#EXTINF:-1,SLO 1 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5644.m3u8
+#EXTINF:-1,SLO 2 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5645.m3u8
+#EXTINF:-1,SLO 3 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6543.m3u8
+#EXTINF:-1,POP TV HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5646.m3u8
+#EXTINF:-1,POP KINO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4832.m3u8
+#EXTINF:-1,POP OTO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4836.m3u8
+#EXTINF:-1,POP BRIO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4838.m3u8
+#EXTINF:-1,HBO (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5650.m3u8
+#EXTINF:-1,HBO 2 (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5651.m3u8
+#EXTINF:-1,HBO 3 (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6484.m3u8
+#EXTINF:-1,FOX HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6481.m3u8
+#EXTINF:-1,FOX CRIME (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5370.m3u8
+#EXTINF:-1,FOX LIFE (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5371.m3u8
+#EXTINF:-1,FOX MOVIES HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6360.m3u8
+#EXTINF:-1,AMC (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5744.m3u8
+#EXTINF:-1,DIVA (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5093.m3u8
+#EXTINF:-1,KANAL A HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5647.m3u8
+#EXTINF:-1,VOYO (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5649.m3u8
+#EXTINF:-1,NET TV (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5741.m3u8
+#EXTINF:-1,NOVA 24 TV (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5740.m3u8
+#EXTINF:-1,RTS MARIBOR (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5739.m3u8
+#EXTINF:-1,TV 3 (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4779.m3u8
+#EXTINF:-1,VAS KANAL (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5738.m3u8
+#EXTINF:-1,CARLI TV (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5745.m3u8
+#EXTINF:-1,VTV STUDIO (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5983.m3u8
+#EXTINF:-1,KOPER TV (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5707.m3u8
+#EXTINF:-1,GOLD TV (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5743.m3u8
+#EXTINF:-1,MEZZO (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6479.m3u8
+#EXTINF:-1,SPONKA GOLD TV HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6291.m3u8
+#EXTINF:-1,24 KITCHEN ADRIA HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6295.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5997.m3u8
+#EXTINF:-1,TRAVEL CHANNEL (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5882.m3u8
+#EXTINF:-1,NATIONAL GEO (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5374.m3u8
+#EXTINF:-1,VIASAT EXPLORE (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5714.m3u8
+#EXTINF:-1,VIASAT HISTORY (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6014.m3u8
+#EXTINF:-1,HISTORY CHANNEL (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5877.m3u8
+#EXTINF:-1,PLANET TV HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5648.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5523.m3u8
+#EXTINF:-1,===== PINK =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5135.m3u8
+#EXTINF:-1,PINK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5490.m3u8
+#EXTINF:-1,PINK 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5493.m3u8
+#EXTINF:-1,PINK 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5494.m3u8
+#EXTINF:-1,PINK BH
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5491.m3u8
+#EXTINF:-1,PINK M
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5492.m3u8
+#EXTINF:-1,PINK PLUS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5507.m3u8
+#EXTINF:-1,PINK FILM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5847.m3u8
+#EXTINF:-1,PINK MOVIES
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6540.m3u8
+#EXTINF:-1,PINK CLASSiC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5635.m3u8
+#EXTINF:-1,PINK ACTION
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5495.m3u8
+#EXTINF:-1,PINK WESTERN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5503.m3u8
+#EXTINF:-1,PINK COMEDY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5496.m3u8
+#EXTINF:-1,PINK PREMIUM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5498.m3u8
+#EXTINF:-1,PINK WORLD CINEMA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6498.m3u8
+#EXTINF:-1,PINK THRILLER
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5502.m3u8
+#EXTINF:-1,PINK HORROR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5497.m3u8
+#EXTINF:-1,PINK CRIME-MISTERY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5509.m3u8
+#EXTINF:-1,PINK SCI-FI-FANTASY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5500.m3u8
+#EXTINF:-1,PINK SERIJE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5501.m3u8
+#EXTINF:-1,PINK SOAP
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5505.m3u8
+#EXTINF:-1,PINK ROMANCE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5506.m3u8
+#EXTINF:-1,PINK WORLD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5789.m3u8
+#EXTINF:-1,PINK REALITY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5499.m3u8
+#EXTINF:-1,PINK PARADA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6007.m3u8
+#EXTINF:-1,PINK PEDIA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5790.m3u8
+#EXTINF:-1,PINK ZABAVA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5504.m3u8
+#EXTINF:-1,PINK SI
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6523.m3u8
+#EXTINF:-1,PINK HAHA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6545.m3u8
+#EXTINF:-1,PINK LOL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6544.m3u8
+#EXTINF:-1,PINK KUVAR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5508.m3u8
+#EXTINF:-1,PINK FASHION
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4868.m3u8
+#EXTINF:-1,===== FILM (prevod) =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4777.m3u8
+#EXTINF:-1,KLASIK TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5614.m3u8
+#EXTINF:-1,HBO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5881.m3u8
+#EXTINF:-1,HBO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6761.m3u8
+#EXTINF:-1,HBO 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5705.m3u8
+#EXTINF:-1,HBO 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6762.m3u8
+#EXTINF:-1,HBO 3 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5875.m3u8
+#EXTINF:-1,CINESTAR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5616.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6758.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5618.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6757.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5619.m3u8
+#EXTINF:-1,CINESTAR ACTION
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4852.m3u8
+#EXTINF:-1,CINESTAR FANTASY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5866.m3u8
+#EXTINF:-1,CINEMAX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5620.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5623.m3u8
+#EXTINF:-1,FILMBOX PLUS HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5885.m3u8
+#EXTINF:-1,FILMBOX EXTRA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5846.m3u8
+#EXTINF:-1,FILM ARTHOUSE BOX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5868.m3u8
+#EXTINF:-1,M1 FILM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6763.m3u8
+#EXTINF:-1,M1 GOLD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5746.m3u8
+#EXTINF:-1,CINEMANIA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6482.m3u8
+#EXTINF:-1,CINEMANIA PLUS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5876.m3u8
+#EXTINF:-1,FILM KLUB
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6785.m3u8
+#EXTINF:-1,CINEMA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6784.m3u8
+#EXTINF:-1,TV 1000
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5230.m3u8
+#EXTINF:-1,FOX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4782.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4786.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4781.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4780.m3u8
+#EXTINF:-1,AXN ADRIA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5615.m3u8
+#EXTINF:-1,AXN SPIN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4867.m3u8
+#EXTINF:-1,CBS DRAMA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6926.m3u8
+#EXTINF:-1,COMEDY CENTRAL EXTRA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5379.m3u8
+#EXTINF:-1,DIVA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4828.m3u8
+#EXTINF:-1,SCIFY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6009.m3u8
+#EXTINF:-1,CINE + SELECT HD 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5989.m3u8
+#EXTINF:-1,CINE + SELECT HD 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5992.m3u8
+#EXTINF:-1,CINE + SELECT HD 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5924.m3u8
+#EXTINF:-1,===== DOKUMENTARNI =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5293.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5608.m3u8
+#EXTINF:-1,DISCOVERY ID Xtra
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4829.m3u8
+#EXTINF:-1,DISCOVERY ID Xtra HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5028.m3u8
+#EXTINF:-1,CRIME INVESTIGATION
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5715.m3u8
+#EXTINF:-1,CBS REALITY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5976.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5878.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6464.m3u8
+#EXTINF:-1,HISTORY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5609.m3u8
+#EXTINF:-1,HISTORY 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5884.m3u8
+#EXTINF:-1,DOCUBOX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5888.m3u8
+#EXTINF:-1,NAT GEO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5611.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5295.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4881.m3u8
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6219.m3u8
+#EXTINF:-1,TLC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5879.m3u8
+#EXTINF:-1,DA VINCI LEARNING
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4799.m3u8
+#EXTINF:-1,SRPSKA NAUCNA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6465.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5717.m3u8
+#EXTINF:-1,E!
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5299.m3u8
+#EXTINF:-1,VIP HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6747.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5607.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5612.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6008.m3u8
+#EXTINF:-1,LOV I RIBOLOV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5610.m3u8
+#EXTINF:-1,24 KITCHEN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5298.m3u8
+#EXTINF:-1,FAST&FUN BOX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5922.m3u8
+#EXTINF:-1,FASHION BOX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5933.m3u8
+#EXTINF:-1,FASHION TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5526.m3u8
+#EXTINF:-1,Nasa TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6019.m3u8
+#EXTINF:-1,===== DJECJI =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5368.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5606.m3u8
+#EXTINF:-1,HAYATOVCI HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5605.m3u8
+#EXTINF:-1,NICKELODEON (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5788.m3u8
+#EXTINF:-1,NICKELODEON-HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6006.m3u8
+#EXTINF:-1,NICKELODEON (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5993.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4759.m3u8
+#EXTINF:-1,TNT KIDS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4792.m3u8
+#EXTINF:-1,ULTRA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5887.m3u8
+#EXTINF:-1,PINK KIDS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6021.m3u8
+#EXTINF:-1,SUPER KIDS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5382.m3u8
+#EXTINF:-1,MINI
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6018.m3u8
+#EXTINF:-1,BABY TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4848.m3u8
+#EXTINF:-1,CARTOONITO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4889.m3u8
+#EXTINF:-1,KIKA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5698.m3u8
+#EXTINF:-1,Super RTL HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5959.m3u8
+#EXTINF:-1,MINIMAX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6493.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6483.m3u8
+#EXTINF:-1,BOOMERANG (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6769.m3u8
+#EXTINF:-1,BOOMERANG
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5975.m3u8
+#EXTINF:-1,ORLANDO KIDS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6099.m3u8
+#EXTINF:-1,===== MUZIKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5369.m3u8
+#EXTINF:-1,CMC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5591.m3u8
+#EXTINF:-1,JUGOTON
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5377.m3u8
+#EXTINF:-1,PINK MUSIC 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5121.m3u8
+#EXTINF:-1,PINK HITS 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5383.m3u8
+#EXTINF:-1,PINK SHOW
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5874.m3u8
+#EXTINF:-1,PINK KONCERT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5793.m3u8
+#EXTINF:-1,PINK & ROLL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5792.m3u8
+#EXTINF:-1,PINK FOLK 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5586.m3u8
+#EXTINF:-1,PINK FOLK 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5587.m3u8
+#EXTINF:-1,GRAND TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5589.m3u8
+#EXTINF:-1,GRAND 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6780.m3u8
+#EXTINF:-1,DM SAT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5588.m3u8
+#EXTINF:-1,HAYAT MUSIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5590.m3u8
+#EXTINF:-1,HAYAT FOLK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4750.m3u8
+#EXTINF:-1,TV SEHARA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5291.m3u8
+#EXTINF:-1,OTV ETNO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5161.m3u8
+#EXTINF:-1,ROMA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6022.m3u8
+#EXTINF:-1,BN MUSIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5592.m3u8
+#EXTINF:-1,BALKANIKA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5596.m3u8
+#EXTINF:-1,CITY MUSIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5803.m3u8
+#EXTINF:-1,VH 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4923.m3u8
+#EXTINF:-1,KRONE HIT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6455.m3u8
+#EXTINF:-1,VH 1 Classic
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5392.m3u8
+#EXTINF:-1,MTV ADRIA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5925.m3u8
+#EXTINF:-1,MTV ROCK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5892.m3u8
+#EXTINF:-1,MTV DANCE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5940.m3u8
+#EXTINF:-1,MTV HITS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4895.m3u8
+#EXTINF:-1,SUPER HITS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6489.m3u8
+#EXTINF:-1,Tigo Music
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5994.m3u8
+#EXTINF:-1,TOP SOUND
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5713.m3u8
+#EXTINF:-1,TOP CITY HITS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5895.m3u8
+#EXTINF:-1,ONE BY HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5898.m3u8
+#EXTINF:-1,ONE BY 2HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5899.m3u8
+#EXTINF:-1,OCKO Gold
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5900.m3u8
+#EXTINF:-1,OCKO Express
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5901.m3u8
+#EXTINF:-1,MONTECARLO MUSIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5906.m3u8
+#EXTINF:-1,Deluxe Music
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5891.m3u8
+#EXTINF:-1,Capital TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5897.m3u8
+#EXTINF:-1,MAD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4925.m3u8
+#EXTINF:-1,HIT TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4927.m3u8
+#EXTINF:-1,DNBLINES TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4921.m3u8
+#EXTINF:-1,HEART TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5893.m3u8
+#EXTINF:-1,===== SPORT =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5077.m3u8
+#EXTINF:-1,SPORTSKA TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5730.m3u8
+#EXTINF:-1,HNTV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6005.m3u8
+#EXTINF:-1,SOS KANAL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5613.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6392.m3u8
+#EXTINF:-1,EUROSPORT 1 (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5185.m3u8
+#EXTINF:-1,EUROSPORT 2 (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5186.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5853.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5977.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5449.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5450.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5451.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5452.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5453.m3u8
+#EXTINF:-1,ARENA SPORT 6 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5422.m3u8
+#EXTINF:-1,ARENA SPORT 1 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5455.m3u8
+#EXTINF:-1,ARENA SPORT 2 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5456.m3u8
+#EXTINF:-1,ARENA SPORT 3 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5457.m3u8
+#EXTINF:-1,ARENA SPORT 4 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5458.m3u8
+#EXTINF:-1,ARENA SPORT 5 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5459.m3u8
+#EXTINF:-1,SPORT KLUB 1  HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5642.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5461.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5462.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5172.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD (SR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5173.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5166.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4845.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5168.m3u8
+#EXTINF:-1,SPORT KLUB 4 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4854.m3u8
+#EXTINF:-1,SPORT KLUB 5 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4856.m3u8
+#EXTINF:-1,SPORT KLUB 6 HD (HR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4858.m3u8
+#EXTINF:-1,SPORT KLUB HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4989.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6548.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6549.m3u8
+#EXTINF:-1,SPORT KLUB 3 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6550.m3u8
+#EXTINF:-1,SPORT KLUB 4 (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6551.m3u8
+#EXTINF:-1,SPORT KLUB 5 (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6552.m3u8
+#EXTINF:-1,SPORT KLUB GOLF (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6553.m3u8
+#EXTINF:-1,SPORT TV 1 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5652.m3u8
+#EXTINF:-1,SPORT TV 2 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5653.m3u8
+#EXTINF:-1,SPORT TV 3 HD (SLO)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5654.m3u8
+#EXTINF:-1,beINsport 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5816.m3u8
+#EXTINF:-1,beINsport 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5817.m3u8
+#EXTINF:-1,beINsport 3 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5818.m3u8
+#EXTINF:-1,beINsport 4 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6027.m3u8
+#EXTINF:-1,beINsport 5 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6028.m3u8
+#EXTINF:-1,beINsport 6 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6029.m3u8
+#EXTINF:-1,beINsport 7 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6030.m3u8
+#EXTINF:-1,beINsport 8 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6031.m3u8
+#EXTINF:-1,beINsport 9 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6032.m3u8
+#EXTINF:-1,beINsport 10 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6033.m3u8
+#EXTINF:-1,beINsport 11 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6034.m3u8
+#EXTINF:-1,beINsport 12 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6035.m3u8
+#EXTINF:-1,Sky Calcio 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6507.m3u8
+#EXTINF:-1,Sky Calcio 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6508.m3u8
+#EXTINF:-1,Sky Calcio 3 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6509.m3u8
+#EXTINF:-1,Sky Calcio 4 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6510.m3u8
+#EXTINF:-1,Sky Calcio 5 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6511.m3u8
+#EXTINF:-1,Sky Calcio 6 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6512.m3u8
+#EXTINF:-1,Supercalcio HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6506.m3u8
+#EXTINF:-1,Sky Sport 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5733.m3u8
+#EXTINF:-1,Sky Sport 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6394.m3u8
+#EXTINF:-1,Sky Sport 3 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5734.m3u8
+#EXTINF:-1,Sky Sport 24 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6395.m3u8
+#EXTINF:-1,Sky Sport F1 (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5735.m3u8
+#EXTINF:-1,Premium Calcio 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6500.m3u8
+#EXTINF:-1,Premium Calcio 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6501.m3u8
+#EXTINF:-1,Premium Calcio 3 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6502.m3u8
+#EXTINF:-1,Premium Calcio 4 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6503.m3u8
+#EXTINF:-1,Premium Calcio 5 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6504.m3u8
+#EXTINF:-1,Premium Calcio 6 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6505.m3u8
+#EXTINF:-1,Premium Sport 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6499.m3u8
+#EXTINF:-1,Premium Sport HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4919.m3u8
+#EXTINF:-1,Milan Channel (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6525.m3u8
+#EXTINF:-1,Roma Channel (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6518.m3u8
+#EXTINF:-1,Juventus Channel (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6517.m3u8
+#EXTINF:-1,Inter Channel (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6515.m3u8
+#EXTINF:-1,Moto GP HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6513.m3u8
+#EXTINF:-1,Fox Sport (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6514.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 1 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5655.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 2 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5785.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 3 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5200.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 4 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6519.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 5 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6520.m3u8
+#EXTINF:-1,SKY BUNDESLIGA 6 HD  (MATCH ONLY)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6521.m3u8
+#EXTINF:-1,SKY SPORT NEWS HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5199.m3u8
+#EXTINF:-1,SKY SPORT 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5656.m3u8
+#EXTINF:-1,SKY SPORT 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5657.m3u8
+#EXTINF:-1,SKY SPORT AUSTRIJA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5736.m3u8
+#EXTINF:-1,SUPER SPORT 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4847.m3u8
+#EXTINF:-1,TV ALL SPORT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6468.m3u8
+#EXTINF:-1,SUPER SPORT 3 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4807.m3u8
+#EXTINF:-1,LIG 1 TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5795.m3u8
+#EXTINF:-1,LIG 2 TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6026.m3u8
+#EXTINF:-1,LIG 3 TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6025.m3u8
+#EXTINF:-1,SUPERSPORT KOSOVA1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4844.m3u8
+#EXTINF:-1,SUPERSPORT KOSOVA 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4837.m3u8
+#EXTINF:-1,CANAL  SPORT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5812.m3u8
+#EXTINF:-1,Sky Sports F1 UK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5192.m3u8
+#EXTINF:-1,Sky Sports 4 UK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5190.m3u8
+#EXTINF:-1,Sky Sports 5 UK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5191.m3u8
+#EXTINF:-1,BT Sport 1 HD UK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5197.m3u8
+#EXTINF:-1,BT Sport 2 HD UK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6393.m3u8
+#EXTINF:-1,BT SPORT 3 HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6574.m3u8
+#EXTINF:-1,SPORT KLUB GOLF
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6558.m3u8
+#EXTINF:-1,MOVISTAR  DEPORTES 1 HD (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6561.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 2 HD (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5398.m3u8
+#EXTINF:-1,BARCELONA TV (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5395.m3u8
+#EXTINF:-1,MOVISTAR LIGA (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5394.m3u8
+#EXTINF:-1,BARCA TV (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6564.m3u8
+#EXTINF:-1,MOVISTAR  F1 HD (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6560.m3u8
+#EXTINF:-1,MOVISTAR  GOLF (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6562.m3u8
+#EXTINF:-1,MOVISTAR GP HD (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6559.m3u8
+#EXTINF:-1,REAL MARID TV (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6563.m3u8
+#EXTINF:-1,TSN SPORT 1 (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6565.m3u8
+#EXTINF:-1,TSN SPORT 2 (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6566.m3u8
+#EXTINF:-1,TSN SPORT 3 (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6567.m3u8
+#EXTINF:-1,TSN SPORT 4 (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6568.m3u8
+#EXTINF:-1,TSN SPORT 5 (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6569.m3u8
+#EXTINF:-1,AFN SPORTS 2 HD (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6571.m3u8
+#EXTINF:-1,AFN SPORTS HD (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6570.m3u8
+#EXTINF:-1,NBA TV HD (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6572.m3u8
+#EXTINF:-1,NBA US HD (USA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6573.m3u8
+#EXTINF:-1,C More Sport HD (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6233.m3u8
+#EXTINF:-1,C More Fotboll HD (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6222.m3u8
+#EXTINF:-1,C More Sport (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6082.m3u8
+#EXTINF:-1,C More Golf (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6531.m3u8
+#EXTINF:-1,Viasat Sport (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6532.m3u8
+#EXTINF:-1,FOX Sport 1 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5822.m3u8
+#EXTINF:-1,FOX Sport 2 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5823.m3u8
+#EXTINF:-1,FOX Sport 3 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5824.m3u8
+#EXTINF:-1,FOX Sports 4 (Nl)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5833.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6108.m3u8
+#EXTINF:-1,Ziggo Sport Select 1 Hd (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6109.m3u8
+#EXTINF:-1,Ziggo Sport Racing HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6110.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6111.m3u8
+#EXTINF:-1,FUTBOL 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5988.m3u8
+#EXTINF:-1,FUTBOL 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6492.m3u8
+#EXTINF:-1,FUTBOL 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5971.m3u8
+#EXTINF:-1,SPORT TV 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6003.m3u8
+#EXTINF:-1,M+ FUTBOL (ESP)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5678.m3u8
+#EXTINF:-1,MATCH ARENA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5972.m3u8
+#EXTINF:-1,MATCH NAS SPORT
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5991.m3u8
+#EXTINF:-1,MOTORSPORT 7
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5909.m3u8
+#EXTINF:-1,FOX SPORTS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5913.m3u8
+#EXTINF:-1,NBA TV (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5000.m3u8
+#EXTINF:-1,BOX NATION (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4988.m3u8
+#EXTINF:-1,FIGHT BOX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4884.m3u8
+#EXTINF:-1,FIGHT CHANNEL HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6024.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6477.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5990.m3u8
+#EXTINF:-1,SPORT 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5926.m3u8
+#EXTINF:-1,TJK SPORT HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5982.m3u8
+#EXTINF:-1,MOTORS TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5969.m3u8
+#EXTINF:-1,OLIMPIC CHANNEL HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4797.m3u8
+#EXTINF:-1,===== NJEMACKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4946.m3u8
+#EXTINF:-1,SKY SELECT 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5762.m3u8
+#EXTINF:-1,SKY SELECT 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5758.m3u8
+#EXTINF:-1,SKY SELECT 3 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5759.m3u8
+#EXTINF:-1,SKY SELECT 4 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5760.m3u8
+#EXTINF:-1,SKY SELECT 5 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5965.m3u8
+#EXTINF:-1,TNT FILM HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5667.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5960.m3u8
+#EXTINF:-1,TNT Comedy HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4998.m3u8
+#EXTINF:-1,SKY KRIMI
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5663.m3u8
+#EXTINF:-1,SKY COMEDY HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5662.m3u8
+#EXTINF:-1,SKY ACTION HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5660.m3u8
+#EXTINF:-1,SKY ATLANTIC HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5661.m3u8
+#EXTINF:-1,SKY CINEMA  24 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5659.m3u8
+#EXTINF:-1,SKY CINEMA HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5658.m3u8
+#EXTINF:-1,SKY EMOTION HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5665.m3u8
+#EXTINF:-1,SKY FOX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5784.m3u8
+#EXTINF:-1,SKY HYTS
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5670.m3u8
+#EXTINF:-1,Sky Germany Hits
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4980.m3u8
+#EXTINF:-1,SKY NOSTALGIE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4996.m3u8
+#EXTINF:-1,SKY NAT.GEO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5668.m3u8
+#EXTINF:-1,SKY DISCOVERY HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5669.m3u8
+#EXTINF:-1,Sky Hits (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5009.m3u8
+#EXTINF:-1,SKY DISNEY CINEMAGIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4990.m3u8
+#EXTINF:-1,Syfy HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5001.m3u8
+#EXTINF:-1,13TH Street HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5045.m3u8
+#EXTINF:-1,MGM HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5033.m3u8
+#EXTINF:-1,PRO 7 MAXX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5697.m3u8
+#EXTINF:-1,FOX HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5677.m3u8
+#EXTINF:-1,VOX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5783.m3u8
+#EXTINF:-1,ZDF HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5675.m3u8
+#EXTINF:-1,RTL HD. (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6760.m3u8
+#EXTINF:-1,RTL HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5672.m3u8
+#EXTINF:-1,RTL 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5700.m3u8
+#EXTINF:-1,RTL NITRO HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5318.m3u8
+#EXTINF:-1,RTL CRIME HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5679.m3u8
+#EXTINF:-1,RTL LIVING HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6396.m3u8
+#EXTINF:-1,RTL PASSION HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5859.m3u8
+#EXTINF:-1,SAT 1  HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5750.m3u8
+#EXTINF:-1,PRO 7 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5699.m3u8
+#EXTINF:-1,KABEL 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4793.m3u8
+#EXTINF:-1,MUNCHEN TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5690.m3u8
+#EXTINF:-1,ARD HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5696.m3u8
+#EXTINF:-1,ARTE HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5693.m3u8
+#EXTINF:-1,DMAX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5692.m3u8
+#EXTINF:-1,SRF 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5682.m3u8
+#EXTINF:-1,ORF 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5680.m3u8
+#EXTINF:-1,ORF 2 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4803.m3u8
+#EXTINF:-1,BEATZ HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5748.m3u8
+#EXTINF:-1,ORF Eins HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5026.m3u8
+#EXTINF:-1,24 TV Austria
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5288.m3u8
+#EXTINF:-1,N-TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5031.m3u8
+#EXTINF:-1,3sat
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5044.m3u8
+#EXTINF:-1,DAS ERSTE HD (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4987.m3u8
+#EXTINF:-1,Muenchen TV (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4991.m3u8
+#EXTINF:-1,VDR HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4737.m3u8
+#EXTINF:-1,HR (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4992.m3u8
+#EXTINF:-1,BADEN TV.
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4784.m3u8
+#EXTINF:-1,BEATZ HD MUSIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4796.m3u8
+#EXTINF:-1,SWR HD DE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4794.m3u8
+#EXTINF:-1,NDR Hamburg HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5917.m3u8
+#EXTINF:-1,LIGHT CHANNEL  (DE)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5915.m3u8
+#EXTINF:-1,=====  ITALIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4888.m3u8
+#EXTINF:-1,RAI 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4905.m3u8
+#EXTINF:-1,Rai 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4915.m3u8
+#EXTINF:-1,RAI 3 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5957.m3u8
+#EXTINF:-1,RAI 4 (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5956.m3u8
+#EXTINF:-1,RAI 5 (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5955.m3u8
+#EXTINF:-1,ITALIA 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5945.m3u8
+#EXTINF:-1,PREMIUM ACTION HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4903.m3u8
+#EXTINF:-1,PREMIUM CINEMA HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5907.m3u8
+#EXTINF:-1,PREMIUM CINEMA 2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4893.m3u8
+#EXTINF:-1,PREMIUM CRIME 24 (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5923.m3u8
+#EXTINF:-1,PREMIUM COMEDY HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4926.m3u8
+#EXTINF:-1,Premium Stories HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4918.m3u8
+#EXTINF:-1,PREMIUM ACTION. 24 (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4929.m3u8
+#EXTINF:-1,SKY CINEMA HITS (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5903.m3u8
+#EXTINF:-1,SKY CINEMA CULT HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5934.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD )ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5935.m3u8
+#EXTINF:-1,SKY CINEMA PASSION HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5937.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5927.m3u8
+#EXTINF:-1,SKY CINEMA CLASSIC HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5950.m3u8
+#EXTINF:-1,Sky Cinema 24 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4904.m3u8
+#EXTINF:-1,Sky Cinema 1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4906.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4891.m3u8
+#EXTINF:-1,SKY TG 24
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5908.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4924.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4902.m3u8
+#EXTINF:-1,FOX LIFE HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5905.m3u8
+#EXTINF:-1,FOX CRIME HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5904.m3u8
+#EXTINF:-1,CANALE 5 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4914.m3u8
+#EXTINF:-1,Rai Movie
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4894.m3u8
+#EXTINF:-1,Rai Yoyo (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4911.m3u8
+#EXTINF:-1,MEDIASET EXTRA (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5941.m3u8
+#EXTINF:-1,MEDIASET IRIS (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5942.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5943.m3u8
+#EXTINF:-1,REAL TIME (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5944.m3u8
+#EXTINF:-1,RETE 4 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5946.m3u8
+#EXTINF:-1,DMAX HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5947.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5948.m3u8
+#EXTINF:-1,PREMIUM DISCOVERY ID HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5949.m3u8
+#EXTINF:-1,RSI La2 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5952.m3u8
+#EXTINF:-1,RSI La1 HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5953.m3u8
+#EXTINF:-1,RAI GULP (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5954.m3u8
+#EXTINF:-1,CIELO HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5928.m3u8
+#EXTINF:-1,FOX ANIMATION HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5916.m3u8
+#EXTINF:-1,NATIONAL GEO PEOPLE HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5951.m3u8
+#EXTINF:-1,NATIONAL GEO HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5938.m3u8
+#EXTINF:-1,PRMIUM CARTOON NETWORK HD (ITA)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5939.m3u8
+#EXTINF:-1,===== SPANIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5389.m3u8
+#EXTINF:-1,VTV 8
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5966.m3u8
+#EXTINF:-1,TVU  Ei
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5981.m3u8
+#EXTINF:-1,Tele Vida
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5995.m3u8
+#EXTINF:-1,Super Canal 33 RD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5984.m3u8
+#EXTINF:-1,Senales TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5985.m3u8
+#EXTINF:-1,Mi Musica HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5998.m3u8
+#EXTINF:-1,Lifedesign
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5999.m3u8
+#EXTINF:-1,Cosmovision
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6000.m3u8
+#EXTINF:-1,Canal U
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6002.m3u8
+#EXTINF:-1,===== FRANCUSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5805.m3u8
+#EXTINF:-1,FRANCE O (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6131.m3u8
+#EXTINF:-1,FRANCE 2 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6143.m3u8
+#EXTINF:-1,FRANCE 3 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6144.m3u8
+#EXTINF:-1,FRANCE 4 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6157.m3u8
+#EXTINF:-1,FRANCE 5 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6145.m3u8
+#EXTINF:-1,CANAL ACTION (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6162.m3u8
+#EXTINF:-1,CANAL 6TER HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6163.m3u8
+#EXTINF:-1,CANAL + HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6165.m3u8
+#EXTINF:-1,CANAL TCM HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6139.m3u8
+#EXTINF:-1,13 EME RUE HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6166.m3u8
+#EXTINF:-1,CANAL M6 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6164.m3u8
+#EXTINF:-1,CANAL COMEDIE + (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6167.m3u8
+#EXTINF:-1,CANAL SERIE CLUB HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6168.m3u8
+#EXTINF:-1,CANAL PREMIER HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6138.m3u8
+#EXTINF:-1,CANAL FRISSON HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6133.m3u8
+#EXTINF:-1,CANAL EMOTION HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6132.m3u8
+#EXTINF:-1,CANAL CINEMA HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6150.m3u8
+#EXTINF:-1,CANAL FAMILY HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5814.m3u8
+#EXTINF:-1,CANAL  DECALE
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5813.m3u8
+#EXTINF:-1,CANAL FAMIZ HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6147.m3u8
+#EXTINF:-1,COMEDIE (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6155.m3u8
+#EXTINF:-1,CINECLASSIC HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6149.m3u8
+#EXTINF:-1,TMC (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6160.m3u8
+#EXTINF:-1,Gulli (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6152.m3u8
+#EXTINF:-1,HD 1 (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5921.m3u8
+#EXTINF:-1,TF 1 HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5973.m3u8
+#EXTINF:-1,OCS Choc HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6153.m3u8
+#EXTINF:-1,RTL 9 (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6161.m3u8
+#EXTINF:-1,NATGEO WILD HD (FR)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6158.m3u8
+#EXTINF:-1,===== NIZOZEMSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6087.m3u8
+#EXTINF:-1,Hbo (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6100.m3u8
+#EXTINF:-1,Hbo 2 HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6101.m3u8
+#EXTINF:-1,Hbo 3 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6102.m3u8
+#EXTINF:-1,Film1 Sundance (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6107.m3u8
+#EXTINF:-1,Film 1 Spotlight (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6106.m3u8
+#EXTINF:-1,Film 1 Premiere HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6105.m3u8
+#EXTINF:-1,Film 1 Comedy HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6104.m3u8
+#EXTINF:-1,Film 1 Action HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6103.m3u8
+#EXTINF:-1,NPO 1 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6088.m3u8
+#EXTINF:-1,NPO 2 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6089.m3u8
+#EXTINF:-1,NPO 3 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6090.m3u8
+#EXTINF:-1,RTL Z (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6098.m3u8
+#EXTINF:-1,Rtl 4 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6091.m3u8
+#EXTINF:-1,Rtl 5 HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6092.m3u8
+#EXTINF:-1,Rtl 7 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6096.m3u8
+#EXTINF:-1,Rtl 8 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6097.m3u8
+#EXTINF:-1,Sbs 6 Hd (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6094.m3u8
+#EXTINF:-1,Sbs 9 HD (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6095.m3u8
+#EXTINF:-1,Net 5 (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6093.m3u8
+#EXTINF:-1,Investigation Discovery (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6115.m3u8
+#EXTINF:-1,History Hd Dutch (NL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6113.m3u8
+#EXTINF:-1,===== SVEDSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6169.m3u8
+#EXTINF:-1,Viasat Comedy (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6230.m3u8
+#EXTINF:-1,Viasat Action (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6231.m3u8
+#EXTINF:-1,VIASAT Series (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5306.m3u8
+#EXTINF:-1,Viasat Film Premiere (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6227.m3u8
+#EXTINF:-1,Viasat Film Family (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6226.m3u8
+#EXTINF:-1,Viasat Hits (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6054.m3u8
+#EXTINF:-1,C More Live (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6225.m3u8
+#EXTINF:-1,C More First (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6224.m3u8
+#EXTINF:-1,C More Emotion (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6223.m3u8
+#EXTINF:-1,C More Hits (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4896.m3u8
+#EXTINF:-1,C More Live 2 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6083.m3u8
+#EXTINF:-1,TV 3 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5963.m3u8
+#EXTINF:-1,TV 4 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6137.m3u8
+#EXTINF:-1,TV 4 Fakta (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6534.m3u8
+#EXTINF:-1,TV 6 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6228.m3u8
+#EXTINF:-1,TV 8 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6216.m3u8
+#EXTINF:-1,TV 10 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6217.m3u8
+#EXTINF:-1,TV 12 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6535.m3u8
+#EXTINF:-1,Kanal 5 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6220.m3u8
+#EXTINF:-1,Svt 1 (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5307.m3u8
+#EXTINF:-1,Svt 2 HD (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5308.m3u8
+#EXTINF:-1,Discovery Channel (S)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6221.m3u8
+#EXTINF:-1,===== DANSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6783.m3u8
+#EXTINF:-1,DR 1 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6403.m3u8
+#EXTINF:-1,DR 2 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6401.m3u8
+#EXTINF:-1,DK 1 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6946.m3u8
+#EXTINF:-1,DK 4 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6944.m3u8
+#EXTINF:-1,DR K (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6945.m3u8
+#EXTINF:-1,DR RAMASJANG (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6940.m3u8
+#EXTINF:-1,TV 2 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5375.m3u8
+#EXTINF:-1,TV 2 CHARLIE (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6955.m3u8
+#EXTINF:-1,TV 2 FRI (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6956.m3u8
+#EXTINF:-1,TV 2 ZULU (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6954.m3u8
+#EXTINF:-1,TV 2 NEWS (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5987.m3u8
+#EXTINF:-1,TV 3 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5310.m3u8
+#EXTINF:-1,TV 3 SPORT 1 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6952.m3u8
+#EXTINF:-1,TV 3 SPORT 2 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6953.m3u8
+#EXTINF:-1,TV 6 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6948.m3u8
+#EXTINF:-1,KANAL 5 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6949.m3u8
+#EXTINF:-1,KANAL 9 (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6947.m3u8
+#EXTINF:-1,6 EREN (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6950.m3u8
+#EXTINF:-1,C MORE FIRST (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6927.m3u8
+#EXTINF:-1,C MORE HITS (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6928.m3u8
+#EXTINF:-1,COMEDY CENTRAL (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6939.m3u8
+#EXTINF:-1,VIASAT FILM COMEDY (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6929.m3u8
+#EXTINF:-1,VIASAT FILM PREMIERE (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6931.m3u8
+#EXTINF:-1,VIASAT SERIES (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6935.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6936.m3u8
+#EXTINF:-1,DISCOVERY ID (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6938.m3u8
+#EXTINF:-1,NAT GEO (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6937.m3u8
+#EXTINF:-1,VIASAT EXPLORER (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6930.m3u8
+#EXTINF:-1,VIASAT HISTORY (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6934.m3u8
+#EXTINF:-1,VIASAT FOTBALL (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6932.m3u8
+#EXTINF:-1,VIASAT GOLF (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6933.m3u8
+#EXTINF:-1,DISNEY CHANNEL (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6943.m3u8
+#EXTINF:-1,DISNEY XD (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6941.m3u8
+#EXTINF:-1,NICKELODEON (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6942.m3u8
+#EXTINF:-1,DR ULTRA (DK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5709.m3u8
+#EXTINF:-1,===== BELGIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5731.m3u8
+#EXTINF:-1,LA DEUX (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6773.m3u8
+#EXTINF:-1,LA UNE HD (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6771.m3u8
+#EXTINF:-1,PLUG RTL (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6770.m3u8
+#EXTINF:-1,2 BE (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6779.m3u8
+#EXTINF:-1,CLUB RTL BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6776.m3u8
+#EXTINF:-1,EEN HD (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6775.m3u8
+#EXTINF:-1,CANVAS HD (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6777.m3u8
+#EXTINF:-1,ACHT (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6778.m3u8
+#EXTINF:-1,LA TROIS (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6772.m3u8
+#EXTINF:-1,KETNET HD (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6774.m3u8
+#EXTINF:-1,VTM KAZOOM (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5864.m3u8
+#EXTINF:-1,VTM (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5930.m3u8
+#EXTINF:-1,TVI RTL (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6554.m3u8
+#EXTINF:-1,VIJF (BEL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6112.m3u8
+#EXTINF:-1,===== UNITED KINGDOM =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4783.m3u8
+#EXTINF:-1,SKY PREMIERE HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6390.m3u8
+#EXTINF:-1,SKY DRAMA & ROMANCE HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6527.m3u8
+#EXTINF:-1,SKY ACTION & ADVENTURE HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6533.m3u8
+#EXTINF:-1,SKY SCYFY HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6121.m3u8
+#EXTINF:-1,SKY FAMILY HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6122.m3u8
+#EXTINF:-1,SKY DISNEY HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6118.m3u8
+#EXTINF:-1,SKY GREATES HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6119.m3u8
+#EXTINF:-1,SKY SELECT HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6120.m3u8
+#EXTINF:-1,SKY COMEDY HD (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6232.m3u8
+#EXTINF:-1,SKY SHOWCASE (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6218.m3u8
+#EXTINF:-1,SKY LIFE TIME (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6125.m3u8
+#EXTINF:-1,SKY TLC (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6126.m3u8
+#EXTINF:-1,SKY ITV 2 (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6130.m3u8
+#EXTINF:-1,SKY ITV 3 (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6128.m3u8
+#EXTINF:-1,SKY ITV 4 (UK)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6127.m3u8
+#EXTINF:-1,===== ALBANIJA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4798.m3u8
+#EXTINF:-1,RTK 1 (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6476.m3u8
+#EXTINF:-1,RTK 2 (KS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4820.m3u8
+#EXTINF:-1,RTK 3 ( KS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4801.m3u8
+#EXTINF:-1,RTK 4 (KS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4800.m3u8
+#EXTINF:-1,Tring Super(AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4815.m3u8
+#EXTINF:-1,Tring Vizion + HD (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4833.m3u8
+#EXTINF:-1,Tring Planet (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5967.m3u8
+#EXTINF:-1,Tring MAX (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4762.m3u8
+#EXTINF:-1,Tring World (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4806.m3u8
+#EXTINF:-1,RTV 21 Popullore (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4928.m3u8
+#EXTINF:-1,HUMOR 1 (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6496.m3u8
+#EXTINF:-1,HUMOR 2 (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4810.m3u8
+#EXTINF:-1,Klan Kosovo KS)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4855.m3u8
+#EXTINF:-1,TOP CHANELL HD (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4763.m3u8
+#EXTINF:-1,RTV 21 HD (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4754.m3u8
+#EXTINF:-1,EXP histori
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4857.m3u8
+#EXTINF:-1,FILM HITS 1 (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4862.m3u8
+#EXTINF:-1,Film Komedi
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4863.m3u8
+#EXTINF:-1,Film Nje (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5637.m3u8
+#EXTINF:-1,FILM DRAME
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4864.m3u8
+#EXTINF:-1,Film Autor
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4865.m3u8
+#EXTINF:-1,TV KLAN HD (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4883.m3u8
+#EXTINF:-1,GOLD FILM 1 (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4887.m3u8
+#EXTINF:-1,KTV HD (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5896.m3u8
+#EXTINF:-1,KTV Kohavision (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5804.m3u8
+#EXTINF:-1,Film Aksion HD (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5666.m3u8
+#EXTINF:-1,ALB MOVIE HD (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5970.m3u8
+#EXTINF:-1,RTV Sharri (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6023.m3u8
+#EXTINF:-1,Film DY HD (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5755.m3u8
+#EXTINF:-1,PLUS HD (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6017.m3u8
+#EXTINF:-1,FOLK (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5979.m3u8
+#EXTINF:-1,MUZIK (AL)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/4870.m3u8
+#EXTINF:-1,SUPERSONIC (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5980.m3u8
+#EXTINF:-1,TOP CHANNEL HD (ALB)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5978.m3u8
+#EXTINF:-1,===== TURSKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5277.m3u8
+#EXTINF:-1,TRT BELGESEL HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5860.m3u8
+#EXTINF:-1,TRT HABER HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5857.m3u8
+#EXTINF:-1,TRT Cocuk
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5858.m3u8
+#EXTINF:-1,TRT AVAZ
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5854.m3u8
+#EXTINF:-1,TRT WORD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5968.m3u8
+#EXTINF:-1,TRT 1 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5867.m3u8
+#EXTINF:-1,TRT Music
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5856.m3u8
+#EXTINF:-1,ISTANBUL TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5855.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5862.m3u8
+#EXTINF:-1,NUMBER ONE  HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5861.m3u8
+#EXTINF:-1,DREAM TURK
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5865.m3u8
+#EXTINF:-1,ARTA TV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5289.m3u8
+#EXTINF:-1,ATV HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5280.m3u8
+#EXTINF:-1,BALKAN TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5821.m3u8
+#EXTINF:-1,KANAL D
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5282.m3u8
+#EXTINF:-1,===== ADULT =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5271.m3u8
+#EXTINF:-1,PINK EROTIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5751.m3u8
+#EXTINF:-1,PINK EROTIC 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5752.m3u8
+#EXTINF:-1,PINK EROTIC 3
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5753.m3u8
+#EXTINF:-1,PINK EROTIC 4
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5469.m3u8
+#EXTINF:-1,PINK EROTIC 5
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5754.m3u8
+#EXTINF:-1,PINK EROTIC 6
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5929.m3u8
+#EXTINF:-1,PINK EROTIC 7
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5471.m3u8
+#EXTINF:-1,PINK EROTIC 8
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5373.m3u8
+#EXTINF:-1,PRIVATE TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5103.m3u8
+#EXTINF:-1,HOOT XxX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5301.m3u8
+#EXTINF:-1,ADULT XXX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5104.m3u8
+#EXTINF:-1,BALKAN EROTIC
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5863.m3u8
+#EXTINF:-1,PASIE XXX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5919.m3u8
+#EXTINF:-1,HOT XXX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5815.m3u8
+#EXTINF:-1,BLACKED XXX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5890.m3u8
+#EXTINF:-1,DORCEL
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5811.m3u8
+#EXTINF:-1,HUSTLER HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5639.m3u8
+#EXTINF:-1,PLAYBOY TV
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5932.m3u8
+#EXTINF:-1,BRAZZERS EU
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6141.m3u8
+#EXTINF:-1,VIKI XXX HD
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/5638.m3u8
+#EXTINF:-1,===== RADIO EX YU =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6724.m3u8
+#EXTINF:-1,Zagreb - Narodni radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6584.m3u8
+#EXTINF:-1,Zagreb - Radio 808
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6581.m3u8
+#EXTINF:-1,Zagreb - Radio Deejay HR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6582.m3u8
+#EXTINF:-1,Split - DEEJAYTEAM.ORG RADIO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6592.m3u8
+#EXTINF:-1,Split - Radio Dalmacija
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6588.m3u8
+#EXTINF:-1,Split - Split Infinity Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6589.m3u8
+#EXTINF:-1,Zadar - Radio057
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6593.m3u8
+#EXTINF:-1,Sibenik - Radio Ritam
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6594.m3u8
+#EXTINF:-1,HR ANTENA ZAGREB
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6600.m3u8
+#EXTINF:-1,HR NARODNI RADIO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6601.m3u8
+#EXTINF:-1,HR RADIO 057
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6602.m3u8
+#EXTINF:-1,HR RADIO BANOVINA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6603.m3u8
+#EXTINF:-1,HR RADIO DALMACIJA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6604.m3u8
+#EXTINF:-1,HR RADIO DARUVAR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6605.m3u8
+#EXTINF:-1,HR RADIO DEEJAY
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6606.m3u8
+#EXTINF:-1,HR RADIO GORSKI KOTAR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6607.m3u8
+#EXTINF:-1,HR RADIO LUDBREG
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6608.m3u8
+#EXTINF:-1,HR RADIO MAX
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6609.m3u8
+#EXTINF:-1,HR RADIO RITAM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6610.m3u8
+#EXTINF:-1,HR RADIO SAMOBOR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6611.m3u8
+#EXTINF:-1,HR RADIO SOLAREVINA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6612.m3u8
+#EXTINF:-1,Sarajevo - BALKAN.DJ Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6619.m3u8
+#EXTINF:-1,Sarajevo - Radio Ask Ilid
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6620.m3u8
+#EXTINF:-1,Sarajevo - Radio Ba
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6617.m3u8
+#EXTINF:-1,Sarajevo - Radio Carsija
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6618.m3u8
+#EXTINF:-1,Sarajevo - Radio M
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6615.m3u8
+#EXTINF:-1,Sarajevo - Radio Sarajevo
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6616.m3u8
+#EXTINF:-1,Teslic - Radio STUDIO M Teslic
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6625.m3u8
+#EXTINF:-1,BH BALKAN DJ
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6626.m3u8
+#EXTINF:-1,BH EKSPRES BOSNA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6627.m3u8
+#EXTINF:-1,BH RADIO ASK ILIDZA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6629.m3u8
+#EXTINF:-1,BH RADIO BA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6630.m3u8
+#EXTINF:-1,BH RADIO BN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6631.m3u8
+#EXTINF:-1,BH RADIO BRCKO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6632.m3u8
+#EXTINF:-1,BH RADIO CARSIJA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6633.m3u8
+#EXTINF:-1,BH RADIO M
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6635.m3u8
+#EXTINF:-1,BH RADIO MIR
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6636.m3u8
+#EXTINF:-1,BH RADIO SARAJEVO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6637.m3u8
+#EXTINF:-1,BH RADIO STUDIO M
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6638.m3u8
+#EXTINF:-1,BH RADIO TUZLA
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6639.m3u8
+#EXTINF:-1,Beograd - B92
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6660.m3u8
+#EXTINF:-1,Beograd - NAXI RADIO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6662.m3u8
+#EXTINF:-1,Beograd - Radio Beograd 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6657.m3u8
+#EXTINF:-1,Beograd - Radio Beograd 2
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6658.m3u8
+#EXTINF:-1,Beograd - Radio Srbija
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6667.m3u8
+#EXTINF:-1,Beograd - Studio B
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6661.m3u8
+#EXTINF:-1,Beograd - TDI Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6663.m3u8
+#EXTINF:-1,Beograd - TDI Radio Beograd
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6664.m3u8
+#EXTINF:-1,Beograd - TDI Radio Classics
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6665.m3u8
+#EXTINF:-1,Beograd - TDI Radio Domacica
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6668.m3u8
+#EXTINF:-1,Beograd - TDI Radio TOP 40
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6669.m3u8
+#EXTINF:-1,Bijeljina - Radio BN
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6623.m3u8
+#EXTINF:-1,Bor - Radio Bor
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6687.m3u8
+#EXTINF:-1,Celje - Radio Celje
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6705.m3u8
+#EXTINF:-1,Energy Radio Belgrade
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6666.m3u8
+#EXTINF:-1,Glina - Radio Banovina
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6598.m3u8
+#EXTINF:-1,Gusinje - Radio Gusinje
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6694.m3u8
+#EXTINF:-1,Koper - Radio Capodistria
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6704.m3u8
+#EXTINF:-1,Koper - Radio Koper
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6703.m3u8
+#EXTINF:-1,Kragujevac - Kragujevac Plaza Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6680.m3u8
+#EXTINF:-1,Kraljevo - *BUM* Radio - Kraljevo
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6690.m3u8
+#EXTINF:-1,Krusevac - Antena Krusevac
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6685.m3u8
+#EXTINF:-1,Leskovac - Radio 016 - Leskovac
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6688.m3u8
+#EXTINF:-1,Novi Sad - Buca
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6656.m3u8
+#EXTINF:-1,Novi Sad - Prvi Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6651.m3u8
+#EXTINF:-1,Novi Sad - Radiox
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6652.m3u8
+#EXTINF:-1,Novi Sad - Radio AS FM
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6644.m3u8
+#EXTINF:-1,Novi Sad - Radio Delta
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6654.m3u8
+#EXTINF:-1,Novi Sad - Radio Novi Sad (madjarski)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6648.m3u8
+#EXTINF:-1,Novi Sad - Radio Novi Sad (manjine)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6649.m3u8
+#EXTINF:-1,Novi Sad - Radio Novi Sad (srpski)
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6647.m3u8
+#EXTINF:-1,Novi Sad - Radio Planeta Novi Sad
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6640.m3u8
+#EXTINF:-1,Novi Sad - RADIO UZIVO 1
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6650.m3u8
+#EXTINF:-1,Ljubljana - Ars
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6697.m3u8
+#EXTINF:-1,Ljubljana - Radio Aktual
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6701.m3u8
+#EXTINF:-1,Ljubljana - RADIO CENTER
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6699.m3u8
+#EXTINF:-1,Ljubljana - Radio Ekspres
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6700.m3u8
+#EXTINF:-1,Ljubljana - Radio prvi
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6695.m3u8
+#EXTINF:-1,Ljubljana - Radio Si
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6698.m3u8
+#EXTINF:-1,Ljubljana - Radio Veseljak
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6702.m3u8
+#EXTINF:-1,Ljubljana - Val 202
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6696.m3u8
+#EXTINF:-1,Ljutomer - Radio Maxi
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6709.m3u8
+#EXTINF:-1,Maribor - Radio Maribor
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6708.m3u8
+#EXTINF:-1,Menges - Unnamed Server
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6710.m3u8
+#EXTINF:-1,Ni
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6682.m3u8
+#EXTINF:-1,Novo Mesto - Radio Krka
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6706.m3u8
+#EXTINF:-1,Novo Mesto - Radio Sraka
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6707.m3u8
+#EXTINF:-1,Podgorica - Radio Crne Gore
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6692.m3u8
+#EXTINF:-1,Pozarevac - Radio Bravo
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6684.m3u8
+#EXTINF:-1,Ptuj - Radio Ptuj
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6712.m3u8
+#EXTINF:-1,Radio 106 Bitola
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6723.m3u8
+#EXTINF:-1,RADIO K4
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6686.m3u8
+#EXTINF:-1,Samobor - Radio Samobor
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6596.m3u8
+#EXTINF:-1,Skopje - Folk Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6720.m3u8
+#EXTINF:-1,Skopje - Kanal103
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6717.m3u8
+#EXTINF:-1,Skopje - Radio Hit
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6719.m3u8
+#EXTINF:-1,Skopje - Radio Nuova San Giorgio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6718.m3u8
+#EXTINF:-1,Skopje - Sky Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6716.m3u8
+#EXTINF:-1,5 FM  Kumanovo
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6721.m3u8
+#EXTINF:-1,Slatina - Radio Slatina
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6595.m3u8
+#EXTINF:-1,Slov. Konjice - Radio Rogla
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6713.m3u8
+#EXTINF:-1,Slovenj Gradec - Koro
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6714.m3u8
+#EXTINF:-1,Smederevo - RADIO LUX SMEDEREVO
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6691.m3u8
+#EXTINF:-1,Svrljig - Radio Bubamaru Svrljig
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6689.m3u8
+#EXTINF:-1,Velenje - Moj Radio
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6715.m3u8
+#EXTINF:-1,===== VIDEOTEKA =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6725.m3u8
+#EXTINF:-1,===== DJECJI FILMOVI =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6557.m3u8
+#EXTINF:-1,Masa I Medved Epizoda 1
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6786.mp4
+#EXTINF:-1,Masa I Medved Epizoda 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6787.mp4
+#EXTINF:-1,Masa I Medved Epizoda 3
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6788.mp4
+#EXTINF:-1,Masa I Medved Epizoda 4
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6789.mp4
+#EXTINF:-1,Masa I Medved Epizoda 5
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6790.mp4
+#EXTINF:-1,Masa I Medved Epizoda 6
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6791.mp4
+#EXTINF:-1,Masa I Medved Epizoda 7
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6792.mp4
+#EXTINF:-1,Alvin I Veverice 3
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6793.avi
+#EXTINF:-1,Arthur U Zemlji Minimoya
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6794.mkv
+#EXTINF:-1,Automobili
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6795.avi
+#EXTINF:-1,Avioni 2 Nebeski Vatrogasci
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6796.avi
+#EXTINF:-1,Barbi I Tri Musketira
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6797.avi
+#EXTINF:-1,Barbi Savrsen Bozic
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6798.avi
+#EXTINF:-1,Barbie I Carobni Pegaz
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6799.avi
+#EXTINF:-1,Barbie Mariposa
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6801.avi
+#EXTINF:-1,Barbie Princeza S Otoka
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6802.avi
+#EXTINF:-1,Kako Trenirati Zmaja 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6800.mkv
+#EXTINF:-1,Despicable Me 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6803.mp4
+#EXTINF:-1,Dinosaurus
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6804.avi
+#EXTINF:-1,Knjiga O Dzungli 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6911.avi
+#EXTINF:-1,Kralj Lavova
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6904.avi
+#EXTINF:-1,Potraga Za Nemom
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6905.avi
+#EXTINF:-1,Ruzno Pace
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6906.mp4
+#EXTINF:-1,Setnja Sa Dinosaurima
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6907.mp4
+#EXTINF:-1,Shrek
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6908.avi
+#EXTINF:-1,Tarzan
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6910.avi
+#EXTINF:-1,===== STRANI FILMOVI =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6556.m3u8
+#EXTINF:-1,13 Hours The Secret Soldiers Of Benghazi (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6805.mp4
+#EXTINF:-1,2 Guns Zero Tolerance(2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6912.mp4
+#EXTINF:-1,Adventures In Babysitting (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6829.mp4
+#EXTINF:-1,Airlift (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6830.mp4
+#EXTINF:-1,Alice Through The Looking Glass (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6831.mp4
+#EXTINF:-1,American Hero (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6924.mp4
+#EXTINF:-1,Arq (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6832.mp4
+#EXTINF:-1,Batman v Superman: Dawn of Justice (2016).
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6960.mp4
+#EXTINF:-1,Bastille Day (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6833.mp4
+#EXTINF:-1,Beta Test (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6835.mp4
+#EXTINF:-1,Blood Father (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6836.mp4
+#EXTINF:-1,Bridge Of Spies(2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6919.mp4
+#EXTINF:-1,Broken Vows (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6837.mp4
+#EXTINF:-1,Cafe Society (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6806.mp4
+#EXTINF:-1,Captain America: Civil War (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6838.mp4
+#EXTINF:-1,Dad’s Army (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6839.mp4
+#EXTINF:-1,Dear Eleanor (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6807.mp4
+#EXTINF:-1,Dirty Grandpa (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6808.mp4
+#EXTINF:-1,Finding Altamira (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6840.mp4
+#EXTINF:-1,Genius (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6841.mp4
+#EXTINF:-1,Ghostbusters (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6809.mp4
+#EXTINF:-1,Hunt For The Wilderpeople (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6810.mp4
+#EXTINF:-1,I Am Wrath (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6842.mp4
+#EXTINF:-1,I T 2016
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6843.mp4
+#EXTINF:-1,Ice Age: Collision Course (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6844.mp4
+#EXTINF:-1,Jason Bourne (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6820.mp4
+#EXTINF:-1,Keanu (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6821.mp4
+#EXTINF:-1,Kickboxer: Vengeance (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6822.mp4
+#EXTINF:-1,Kingsglaive Final Fantasy Xv (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6823.mp4
+#EXTINF:-1,London Has Fallen
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6811.mp4
+#EXTINF:-1,Love & Friendship (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6812.mp4
+#EXTINF:-1,Creed (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6920.mp4
+#EXTINF:-1,Legend (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6923.mp4
+#EXTINF:-1,Mad Max: Fury Road (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6921.mp4
+#EXTINF:-1,Mechanic Resurrection (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6824.mp4
+#EXTINF:-1,Miracles From Heaven (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6825.mp4
+#EXTINF:-1,Money Monster (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6845.mp4
+#EXTINF:-1,Mother’s Day (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6813.mp4
+#EXTINF:-1,Neighbors 2: Sorority Rising (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6814.mp4
+#EXTINF:-1,Risen (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6915.mp4
+#EXTINF:-1,Slow West (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6922.mp4
+#EXTINF:-1,Sniper: Ghost Shooter (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6826.mp4
+#EXTINF:-1,Star Wars: The Force Awakens (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6958.mp4
+#EXTINF:-1,Star Trek Beyond (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6827.mp4
+#EXTINF:-1,Swiss Army Man (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6815.mp4
+#EXTINF:-1,Teenage Mutant Ninja Turtles Out Of The Shadows (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6828.mp4
+#EXTINF:-1,The Confirmation (2016
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6816.mp4
+#EXTINF:-1,The Conjuring 2 (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6850.mp4
+#EXTINF:-1,The Infiltrator (2016
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6851.mp4
+#EXTINF:-1,The Purge: Election Year (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6846.mp4
+#EXTINF:-1,The Sea Of Trees (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6847.mp4
+#EXTINF:-1,The Big Short (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6917.mp4
+#EXTINF:-1,The Legend Of Tarzan (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6913.mp4
+#EXTINF:-1,The Martian (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6918.mp4
+#EXTINF:-1,The Revenant (2015)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6916.mp4
+#EXTINF:-1,The Trust (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6914.mp4
+#EXTINF:-1,The Wild Life (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6848.mp4
+#EXTINF:-1,Vigilante Diaries (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6849.mp4
+#EXTINF:-1,Warcraft (2016
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6817.mp4
+#EXTINF:-1,We Have A Problem! (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6818.mp4
+#EXTINF:-1,X-men: Apocalypse (2016)
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6819.mp4
+#EXTINF:-1,===== DOMACI FILMOVI =====
+http://two-brothers.dyndns.tv:8000/live/test23/rJQ1DwrfJq/6555.m3u8
+#EXTINF:-1,Apsolutnih Sto
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6890.avi
+#EXTINF:-1,Balkan Express
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6865.mkv
+#EXTINF:-1,Balkan Express 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6866.mkv
+#EXTINF:-1,Balkanski Spijun
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6891.avi
+#EXTINF:-1,Bice Bice
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6868.mkv
+#EXTINF:-1,Bicemo Prvaci Sveta
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6873.mp4
+#EXTINF:-1,Branio Sam Mladu Bosnu
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6874.mp4
+#EXTINF:-1,Cao Inspektore
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6875.mkv
+#EXTINF:-1,Dobro Ustimani Mrtvaci
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6876.mp4
+#EXTINF:-1,Duhovi Sarajeva
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6892.mp4
+#EXTINF:-1,Hiljadarka
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6869.mp4
+#EXTINF:-1,Idi Mi Dodji Mi
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6852.avi
+#EXTINF:-1,Ivkova Slava
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6870.mkv
+#EXTINF:-1,Jesi Li To Dosao Da Me Vidis
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6877.mp4
+#EXTINF:-1,Kad Mrtvi Zapjevaju
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6871.mkv
+#EXTINF:-1,Kakav Deda Takav Unuk
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6853.avi
+#EXTINF:-1,Karaula
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6854.avi
+#EXTINF:-1,Kuduz
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6864.mkv
+#EXTINF:-1,Lajanje Na Zvezde
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6855.avi
+#EXTINF:-1,Ljubi Ljubi Al Glavu Ne Gubi
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6856.avi
+#EXTINF:-1,Lopovi Prve Klase
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6872.mkv
+#EXTINF:-1,Marsal
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6881.mkv
+#EXTINF:-1,Mali Budo
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6893.mp4
+#EXTINF:-1,Maratonci Trce Pocasni Krug
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6894.mkv
+#EXTINF:-1,Mi Nismo Andjeli
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6895.avi
+#EXTINF:-1,Mi nismo andjeli 2.
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6959.mp4
+#EXTINF:-1,Mrtav Ladan
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6896.mp4
+#EXTINF:-1,Montevideo Vidimo Se
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6883.mkv
+#EXTINF:-1,Munje
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6858.avi
+#EXTINF:-1,Nacionalna Klasa
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6897.avi
+#EXTINF:-1,Najbolji
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6878.mp4
+#EXTINF:-1,Nije Lako Sa Muskarcima
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6898.avi
+#EXTINF:-1,Nebo Iznad Krajolikka
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6859.avi
+#EXTINF:-1,Otac Na Sluzbenom Putu
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6899.mp4
+#EXTINF:-1,Parada
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6879.mp4
+#EXTINF:-1,Partizanska.Eskadrila.
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6957.mp4
+#EXTINF:-1,Savrseni Krug
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6880.mp4
+#EXTINF:-1,Sekula I Njegove Zene
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6901.mp4
+#EXTINF:-1,Sjeæaš Li Se Dolly Bell
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6862.avi
+#EXTINF:-1,Sta Se Zgodi Kad Se Ljubav Rodi
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6863.avi
+#EXTINF:-1,Tesna Koza 1
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6884.avi
+#EXTINF:-1,Tesna Koza 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6885.avi
+#EXTINF:-1,Tesna Koza 3
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6886.avi
+#EXTINF:-1,Tesna Koza 4
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6887.avi
+#EXTINF:-1,Valter Brani Sarajevo
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6867.avi
+#EXTINF:-1,Zikina Dinastija
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6888.avi
+#EXTINF:-1,Zikina Dinastija-lude Godine 8
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6889.mp4
+#EXTINF:-1,Zikina Dinastija 2
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6902.mp4
+#EXTINF:-1,Zivi I Mrtvi
+http://two-brothers.dyndns.tv:8000/movie/test23/rJQ1DwrfJq/6903.avi
